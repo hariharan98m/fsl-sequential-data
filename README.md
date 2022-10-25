@@ -23,3 +23,6 @@ result = response.choices[0].text
 3. Apply a loss mask to the label outputs that GPT must optimize for correctly. Zero out loss for other inputs.
 4. Ensure padding and attention masks (for causal inference Left to Right)
 5. Freeze inner layers. Run backprop, minimize error with SGD.
+
+## Dataset
+https://github.com/epic-kitchens/epic-kitchens-100-annotations#epic_100_test_timestampscsv
