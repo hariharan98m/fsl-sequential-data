@@ -78,25 +78,22 @@ for video_id_int in video_ids_modified:
     print(prompt_str)
 
 
-# In[86]:
+# In[104]:
 
 
 def preprocess_raw_data_to_create_prompts(file_name:str):
     prompt = []
-    separator = ' '
+    separator = '=>'
     df = pd.read_csv(file_name)
     df['narration_id_int'] = df.apply(lambda row: columnStringToInt(row), axis=1)
     participants_ids = df['participant_id'].unique()
-#     print(participants_ids)
     for participant_id in participants_ids:
-#         print(participant_id)
         filtered_df_by_participant_id = df[df['participant_id'] == participant_id] 
         video_ids = filtered_df_by_participant_id['video_id'].unique()
-        start_index = video_ids[1].index('_') + 1
+        start_index = video_ids[0].index('_') + 1
         video_ids_modified = [int(video_ids[i][start_index:len(video_ids[i])]) for i in range(len(video_ids))]
         video_ids_modified = np.sort(video_ids_modified)
         for video_id_int in video_ids_modified:
-#             print(video_id_int)
             video_id_str = ''
             if video_id_int <= 9:
                 video_id_str = '0' + str(video_id_int)
@@ -111,34 +108,64 @@ def preprocess_raw_data_to_create_prompts(file_name:str):
     return prompt
 
 
-# In[87]:
+# In[105]:
 
 
-prompt = preprocess_raw_data_to_create_prompts(file_name)
+prompts = preprocess_raw_data_to_create_prompts(file_name)
 
 
-# In[88]:
+# In[106]:
 
 
-prompt[1]
+prompts[1]
 
 
-# In[77]:
+# In[92]:
 
 
-prompt[2]
+prompts[2]
 
 
-# In[78]:
+# In[93]:
 
 
-prompt[3]
+prompts[3]
 
 
-# In[89]:
+# In[94]:
 
 
-print(len(prompt))
+print(len(prompts))
+
+
+# In[107]:
+
+
+train_file_name = 'train_data.csv'
+train_prompts = preprocess_raw_data_to_create_prompts(train_file_name)
+with open('train_prompt.txt', 'w') as f:
+    for prompt in train_prompts:
+        f.write(f"{prompt}\n")
+
+
+# In[108]:
+
+
+validation_file_name = 'validation_data.csv'
+validation_prompts = preprocess_raw_data_to_create_prompts(validation_file_name)
+with open('validation_prompt.txt', 'w') as f:
+    for prompt in validation_prompts:
+        f.write(f"{prompt}\n")
+
+
+# In[111]:
+
+
+test_file_name = 'test_data.csv'
+test_prompts = preprocess_raw_data_to_create_prompts(test_file_name)
+with open('test_prompt.txt', 'w') as f:
+    for prompt in test_prompts:
+        f.write(f"{prompt}\n")
 
 
 # In[ ]:
