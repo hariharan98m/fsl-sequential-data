@@ -1,0 +1,1016 @@
+Walk to bedroom=>Walk to floor lamp=>Switch off floor lamp=>Walk to bed=>Lie on bed=>Sleep=>Sleep=>Sleep
+Walk to home office=>Walk to purse=>Find purse=>Open purse=>Find keys=>Grab keys=>Close purse
+Walk to dining room=>Walk to clothes dress=>Find clothes dress=>Grab clothes dress=>Find washing machine=>Turn to washing machine=>Look at washing machine=>Open washing machine=>Put clothes dress on washing machine=>Close washing machine=>Switch on washing machine=>Switch off washing machine
+Find cat=>Touch cat
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find television=>Switch on television=>Find remote control=>Grab remote control
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find couch=>Sit on couch=>Turn to remote control=>Point at remote control=>Find button=>Push button
+Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Find food food=>Grab food food=>Put food food in freezer=>Close freezer
+Walk to home office=>Walk to television=>Find television=>Find remote control=>Turn to television=>Point at television=>Find button=>Push button=>Turn to television=>Watch television
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Open dishwasher=>Find faucet=>Switch on faucet=>Find plate=>Grab plate=>Rinse plate=>Put plate on dishwasher=>Find plate=>Grab plate=>Rinse plate=>Put plate on dishwasher=>Find plate=>Grab plate=>Rinse plate=>Put plate on dishwasher=>Find detergent=>Grab detergent=>Put detergent on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to home office=>Walk to remote control=>Grab remote control=>Find television=>Turn to television=>Point at television=>Switch on television=>Watch television
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Open dishwasher=>Find fork=>Find fork=>Grab fork=>Grab fork=>Put fork on dishwasher=>Put fork on dishwasher=>Find plate=>Find plate=>Grab plate=>Put plate on dishwasher=>Find plate=>Grab plate=>Grab plate=>Put plate on dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Put plate on dishwasher=>Find cup=>Find cup=>Grab cup=>Put cup on dishwasher=>Find cup=>Grab cup=>Grab cup=>Put cup on dishwasher=>Find cup=>Grab cup=>Put cup on dishwasher=>Put cup on dishwasher=>Find knife=>Find knife=>Grab knife=>Grab knife=>Put knife on dishwasher=>Put knife on dishwasher=>Find spoon=>Find spoon=>Grab spoon=>Put spoon on dishwasher=>Grab spoon=>Find spoon=>Grab spoon=>Put spoon on dishwasher=>Put spoon on dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Find food food=>Grab food food=>Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Put food food in freezer=>Close freezer
+Walk to dining room=>Walk to kitchen cabinet=>Find kitchen cabinet=>Open kitchen cabinet=>Find water glass=>Grab water glass=>Find faucet=>Switch on faucet=>Drink water glass
+Find bed=>Turn to bed=>Point at bed=>Wash bed=>Turn to bed=>Look at bed=>Touch bed=>Sit on bed
+Walk to dining room=>Walk to coffee maker=>Find coffee maker=>Open coffee maker=>Find coffee filter=>Grab coffee filter=>Put coffee filter on coffee maker=>Find ground coffee=>Grab ground coffee=>Put ground coffee on coffee maker=>Walk to water=>Find water=>Grab water=>Pour water into coffee maker=>Close coffee maker=>Plug in coffee maker=>Switch on coffee maker
+Walk to home office=>Walk to button=>Find button=>Push button=>Find chair=>Sit on chair=>Find computer=>Turn to computer=>Look at computer
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Find mouse=>Grab mouse=>Find mousepad=>Put mouse on mousepad=>Turn to computer=>Point at computer
+Walk to bedroom=>Walk to basket for clothes=>Find basket for clothes=>Grab basket for clothes=>Walk to home office=>Walk to table=>Find table=>Put basket for clothes on table=>Walk to filing cabinet=>Open filing cabinet=>Find laundry detergent=>Grab laundry detergent=>Find washing machine=>Open washing machine=>Pour laundry detergent into washing machine=>Put back laundry detergent=>Close filing cabinet=>Find clothes dress=>Grab clothes dress=>Put clothes dress on washing machine=>Find clothes pants=>Grab clothes pants=>Put clothes pants on washing machine=>Find clothes shirt=>Grab clothes shirt=>Put clothes shirt on washing machine=>Plug in washing machine=>Close washing machine=>Switch on washing machine
+Walk to dining room=>Walk to bowl=>Find bowl=>Grab bowl=>Walk to dining room=>Wash bowl=>Walk to detergent=>Find detergent=>Rinse detergent
+Walk to home office=>Walk to desk=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to vacuum cleaner=>Find vacuum cleaner=>Grab vacuum cleaner=>Switch on vacuum cleaner=>Switch off vacuum cleaner
+Walk to dining room=>Walk to food food=>Find food food=>Find pot=>Grab pot=>Find spoon=>Grab spoon=>Find sauce pan=>Put spoon on sauce pan=>Find freezer=>Open freezer=>Find plate=>Put pot on plate
+Walk to home office=>Walk to table=>Find table=>Walk to table=>Find computer=>Turn to computer=>Look at computer=>Turn to computer=>Switch on computer=>Find mail=>Turn to mail
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find couch=>Sit on couch=>Find television=>Switch on television=>Find button=>Push button
+Walk to dining room=>Walk to cupboard=>Find cupboard=>Open cupboard=>Find drinking glass=>Grab drinking glass=>Walk to sink=>Find faucet=>Switch on faucet=>Put drinking glass on sink=>Grab drinking glass=>Drink drinking glass
+Walk to dining room=>Walk to plate=>Find plate=>Grab plate=>Walk to dishwasher=>Open dishwasher=>Put plate on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to home office=>Walk to desk=>Find desk=>Turn to desk=>Look at desk=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Find address book=>Find mail=>Grab mail=>Drop mail=>Switch off computer
+Walk to dining room=>Walk to water glass=>Find water glass=>Grab water glass=>Find freezer=>Open freezer=>Walk to water=>Find water=>Grab water=>Pour water into water glass=>Close freezer=>Drink water glass
+Walk to home office=>Walk to light=>Find light=>Plug in light=>Switch on light=>Walk to home office
+Run to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find television=>Turn to television=>Point at television=>Touch remote control=>Walk to couch=>Sit on couch=>Lie on couch=>Turn to television=>Look at television=>Sleep
+Walk to dining room=>Walk to cupboard=>Find cupboard=>Open cupboard=>Find cup=>Grab cup=>Find faucet=>Switch on faucet=>Find water=>Find sink=>Put cup on sink=>Grab cup=>Drink cup
+Walk to dining room=>Walk to plate=>Find plate=>Grab plate=>Find sink=>Put plate on sink=>Wash plate
+Walk to home office=>Walk to cat=>Find cat=>Touch cat
+Walk to phone=>Grab phone
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch
+Walk to bedroom=>Walk to window=>Turn to window=>Look at window
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find button=>Push button=>Find television=>Turn to television=>Watch television
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Find television=>Switch on television=>Turn to television=>Watch television
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Walk to dishwasher=>Open dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Find spoon=>Grab spoon=>Put spoon on dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Find television=>Switch on television=>Find remote control=>Grab remote control=>Find button=>Push button=>Put back remote control
+Walk to bathroom=>Walk to faucet=>Find faucet=>Turn to faucet=>Find hands both=>Rinse hands both=>Find soap=>Grab soap=>Wash hands both=>Rinse hands both=>Turn to faucet=>Find towel=>Grab towel=>Wipe hands both
+Walk to home office=>Walk to cat=>Find cat=>Find toy=>Grab toy=>Find chair=>Put toy on chair=>Touch cat
+Walk to dining room=>Walk to sink=>Find cup=>Grab cup=>Find faucet=>Switch on faucet=>Find water=>Put cup on sink=>Grab cup=>Switch off faucet=>Drink cup
+Walk to table=>Find phone=>Turn to phone=>Look at phone=>Grab phone
+Find toy=>Grab toy=>Find clothes dress=>Grab clothes dress=>Find vacuum cleaner=>Wipe vacuum cleaner
+Walk to bedroom=>Walk to light=>Switch off light
+Walk to dining room=>Walk to cupboard=>Find cupboard=>Open cupboard=>Find water glass=>Grab water glass=>Walk to water=>Find water=>Grab water=>Pour water into water glass=>Drink water glass=>Rinse water glass=>Put water glass on cupboard
+Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Find cup=>Grab cup=>Close freezer=>Find water=>Grab water=>Find cup=>Pour water into cup=>Find cup=>Drink cup
+Walk to home office=>Walk to table=>Find table=>Find table cloth=>Grab table cloth=>Put table cloth on table
+Walk to home office=>Walk to television=>Find television=>Switch on television
+Walk to bedroom=>Walk to clothes dress=>Find clothes dress=>Grab clothes dress=>Walk to dresser=>Find hanger=>Open dresser=>Put clothes dress in dresser=>Find clothes dress=>Grab clothes dress=>Walk to dresser=>Put clothes dress in dresser=>Close dresser
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Touch remote control=>Turn to television=>Watch television
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Open dishwasher=>Find plate=>Grab plate=>Find bowl=>Grab bowl=>Walk to dishwasher=>Put bowl on dishwasher=>Grab bowl=>Put bowl on dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to bedroom=>Walk to laptop=>Find laptop=>Grab laptop=>Find bed=>Sit on bed=>Switch on laptop=>Find keyboard=>Type on keyboard=>Put laptop on bed=>Lie on bed=>Turn to laptop=>Look at laptop
+Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Find beer=>Grab beer=>Close freezer=>Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Drink beer
+Walk to dining room=>Walk to dry pasta=>Find dry pasta=>Grab dry pasta=>Find sauce pan=>Put dry pasta on sauce pan=>Find sauce pan=>Grab sauce pan=>Find oven=>Put sauce pan on oven
+Walk to home office=>Walk to desk=>Find chair=>Sit on chair=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to table=>Find table=>Walk to table=>Find computer=>Turn to computer=>Look at computer=>Turn to computer=>Switch on computer=>Find mail=>Turn to mail
+Walk to home office=>Walk to laptop=>Find laptop=>Switch on laptop=>Find mouse=>Grab mouse=>Find keyboard=>Type on keyboard
+Find cat=>Touch cat
+Walk to home office=>Walk to home office=>Walk to novel=>Find novel=>Turn to novel=>Look at novel=>Find novel=>Find chair=>Turn to chair=>Look at chair=>Sit on chair=>Grab novel=>Read novel
+Walk to bathroom=>Walk to washing machine=>Find washing machine=>Open washing machine=>Find basket for clothes=>Grab basket for clothes=>Find clothes pants=>Grab clothes pants=>Put clothes pants on washing machine=>Find clothes shirt=>Grab clothes shirt=>Put clothes shirt on washing machine=>Put back basket for clothes=>Walk to laundry detergent=>Find laundry detergent=>Grab laundry detergent=>Pour laundry detergent into washing machine=>Close washing machine=>Switch on washing machine
+Walk to home office=>Walk to desk=>Find phone=>Grab phone
+Walk to home office=>Walk to dog=>Turn to dog=>Look at dog=>Touch dog
+Find computer=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to computer=>Find computer=>Switch on computer=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to drawing=>Find drawing=>Turn to drawing=>Look at drawing=>Touch drawing=>Push drawing=>Find drawing=>Turn to drawing=>Look at drawing=>Touch drawing=>Push drawing
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Turn to computer=>Look at computer=>Switch on computer
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find novel=>Grab novel=>Find bookmark=>Read novel
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find novel=>Grab novel=>Read novel
+Walk to home office=>Walk to bedroom=>Walk to basket for clothes=>Find basket for clothes=>Grab basket for clothes=>Walk to dining room=>Walk to washing machine=>Find washing machine=>Open washing machine=>Put basket for clothes on washing machine=>Find laundry detergent=>Grab laundry detergent=>Put laundry detergent on washing machine=>Close washing machine=>Turn to washing machine
+Walk to home office=>Walk to phone=>Find phone=>Grab phone
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Find keyboard=>Type on keyboard=>Find mail=>Grab mail=>Read mail
+Walk to dining room=>Walk to light=>Find light=>Turn to light=>Look at light=>Switch on light=>Walk to light=>Switch on light=>Walk to light=>Switch on light
+Walk to chair=>Sit on chair=>Find laptop=>Switch on laptop=>Turn to laptop=>Look at laptop=>Find mail=>Grab mail=>Read mail=>Find keyboard=>Type on keyboard=>Switch off laptop
+Walk to bathroom=>Walk to bathroom cabinet=>Find bathroom cabinet=>Open bathroom cabinet=>Find toilet paper=>Grab toilet paper=>Close bathroom cabinet
+Run to home office
+Run to home office=>Walk to woman=>Find woman=>Turn to woman=>Look at woman=>Greet woman=>Find man=>Turn to man=>Look at man=>Greet man
+Walk to dining room=>Walk to table=>Find plate=>Grab plate=>Walk to dishwasher=>Open dishwasher=>Put plate on dishwasher=>Walk to table=>Find pot=>Grab pot=>Walk to dishwasher=>Put pot on dishwasher=>Close dishwasher=>Find dish soap=>Grab dish soap=>Open dishwasher=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to dining room=>Walk to sink=>Find faucet=>Switch on faucet=>Walk to plate=>Grab plate=>Walk to plate=>Grab plate=>Walk to sink=>Put plate on sink=>Put plate on sink=>Find dish soap=>Grab dish soap=>Find sponge=>Pour dish soap into sponge=>Put back dish soap=>Grab sponge=>Wash plate=>Wash plate=>Rinse plate=>Rinse plate=>Grab plate=>Find dishrack=>Put plate on dishrack=>Grab plate=>Put plate on dishrack=>Switch off faucet
+Walk to home office=>Walk to laptop=>Find laptop=>Grab laptop=>Walk to chair=>Sit on chair=>Switch on laptop=>Turn to laptop=>Look at laptop=>Touch laptop=>Turn to laptop=>Look at laptop=>Touch laptop=>Turn to laptop=>Look at laptop=>Touch laptop=>Turn to laptop=>Look at laptop=>Touch laptop
+Walk to home office=>Walk to fax machine=>Find fax machine=>Switch on fax machine=>Find printing paper=>Grab printing paper=>Put printing paper on fax machine=>Find computer=>Find mouse=>Grab mouse=>Grab printing paper
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find couch=>Sit on couch=>Find television=>Switch on television=>Find button=>Push button
+Walk to bedroom=>Walk to light=>Find light=>Switch on light=>Find bed=>Lie on bed=>Find novel=>Grab novel=>Find bookmark=>Grab bookmark=>Read novel=>Put bookmark on novel=>Find nightstand=>Put novel on nightstand
+Walk to light=>Switch on light
+Find television=>Switch on television=>Find remote control=>Grab remote control=>Find button=>Push button=>Put back remote control
+Run to home office=>Walk to computer=>Find computer=>Switch on computer=>Find chair=>Sit on chair=>Find mouse=>Grab mouse=>Turn to computer=>Look at computer=>Find keyboard=>Grab keyboard=>Type on keyboard=>Turn to computer=>Look at computer=>Touch mouse=>Type on keyboard=>Turn to computer=>Look at computer
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Find coffee table=>Put remote control on coffee table=>Turn to television=>Look at television
+Walk to home office=>Walk to desk=>Find phone=>Turn to phone=>Look at phone=>Grab phone
+Find phone=>Grab phone=>Type on phone=>Find address book=>Type on phone=>Find button=>Push button
+Walk to bathroom=>Walk to cleaning solution=>Find cleaning solution=>Grab cleaning solution=>Find sink=>Pour cleaning solution into sink=>Find faucet=>Switch on faucet=>Scrub sink=>Wash sink
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find remote control=>Grab remote control=>Find television=>Turn to television=>Point at television=>Switch on television=>Watch television
+Walk to home office=>Walk to cat=>Find cat=>Turn to cat=>Look at cat=>Find couch=>Sit on couch=>Touch cat
+Find cat=>Walk to cat=>Turn to cat=>Look at cat=>Touch cat=>Scrub cat
+Walk to dining room=>Walk to coffee maker=>Find coffee maker=>Open coffee maker=>Find coffee filter=>Grab coffee filter=>Put coffee filter on coffee maker=>Find coffee=>Grab coffee=>Put coffee on coffee maker
+Find light=>Switch on light
+Walk to bedroom=>Walk to floor lamp=>Find floor lamp=>Switch on floor lamp
+Walk to bathroom=>Walk to brush=>Find brush=>Grab brush=>Find detergent=>Grab detergent=>Find toilet=>Put detergent on toilet=>Find toilet=>Scrub toilet=>Rinse toilet=>Find shower=>Scrub shower=>Rinse shower
+Walk to dining room=>Walk to cupboard=>Find cupboard=>Open cupboard=>Find cup=>Grab cup=>Walk to sink=>Find faucet=>Turn to faucet=>Put cup on sink=>Switch on faucet=>Find water=>Grab cup=>Put cup on sink=>Grab cup=>Switch off faucet=>Drink cup
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find television=>Turn to television=>Watch television
+Walk to home office=>Walk to chair=>Pull chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer
+Walk to home office=>Walk to television=>Find television=>Switch on television=>Turn to television=>Watch television
+Walk to home office=>Walk to television=>Find television=>Switch on television=>Turn to television=>Watch television
+Walk to home office
+Walk to home office=>Walk to electrical outlet=>Find electrical outlet=>Find light=>Switch on light
+Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Find cup=>Grab cup=>Close freezer=>Find water=>Grab water=>Find cup=>Pour water into cup=>Find cup=>Drink cup
+Walk to dining room=>Walk to food food=>Find food food=>Grab food food=>Find freezer=>Open freezer=>Drop food food
+Walk to bathroom=>Walk to sink=>Find faucet=>Switch on faucet=>Find soap=>Squeeze soap=>Find hands both=>Wash hands both
+Walk to home office=>Walk to newspaper=>Find newspaper=>Grab newspaper=>Walk to couch=>Sit on couch=>Turn to newspaper=>Look at newspaper=>Read newspaper=>Read newspaper=>Read newspaper
+Walk to bathroom=>Walk to shower=>Find shower=>Wash shower
+Walk to home office=>Walk to child=>Find child=>Touch child=>Find man=>Touch man=>Find woman=>Touch woman
+Find clothes pants=>Grab clothes pants=>Walk to dining room=>Walk to washing machine=>Find washing machine=>Open washing machine=>Put clothes pants on washing machine=>Close washing machine=>Switch on washing machine
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch
+Walk to home office=>Walk to couch=>Find couch=>Lie on couch
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find button=>Push button=>Put back remote control
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Open dishwasher=>Find drinking glass=>Grab drinking glass=>Find cupboard=>Open cupboard=>Put drinking glass on cupboard=>Find fork=>Grab fork=>Find kitchen cabinet=>Open kitchen cabinet=>Put fork in kitchen cabinet=>Find knife=>Grab knife=>Put knife in kitchen cabinet=>Find spoon=>Grab spoon=>Put spoon in kitchen cabinet=>Find plate=>Grab plate=>Put plate in kitchen cabinet=>Close kitchen cabinet=>Close dishwasher
+Walk to bedroom=>Walk to laptop=>Find laptop=>Grab laptop=>Walk to bed=>Sit on bed=>Switch on laptop=>Turn to laptop=>Look at laptop=>Find keyboard=>Type on keyboard
+Walk to bedroom=>Walk to pillow=>Find pillow=>Grab pillow=>Find bed=>Put pillow on bed=>Lie on bed=>Sleep
+Find water=>Grab water=>Find pot=>Pour water into pot=>Find pot=>Grab pot=>Put back pot
+Walk to home office=>Walk to light=>Find light=>Switch on light=>Find novel=>Grab novel=>Find chair=>Sit on chair=>Read novel
+Walk to bedroom=>Walk to remote control=>Find remote control=>Grab remote control=>Find bed=>Sit on bed=>Find television=>Switch on television=>Put remote control on bed=>Turn to television=>Watch television
+Walk to home office=>Walk to filing cabinet=>Find check=>Grab check=>Walk to shredder=>Plug in shredder=>Put check on shredder
+Walk to home office=>Walk to cat=>Find cat=>Turn to cat=>Look at cat=>Touch cat
+Walk to home office=>Walk to video game console=>Find video game console=>Switch on video game console=>Find video game controller=>Grab video game controller=>Put back video game controller=>Switch off video game console=>Find video game console=>Switch on video game console=>Find video game controller=>Grab video game controller
+Walk to home office=>Walk to light=>Find light=>Switch on light=>Walk to desk=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Find couch=>Sit on couch=>Find television=>Turn to television=>Watch television
+Find cat=>Walk to home office=>Walk to cat=>Touch cat
+Walk to dining room=>Walk to food food=>Find food food=>Grab food food=>Walk to dining room=>Walk to table=>Find table=>Put food food on table=>Find chair=>Sit on chair=>Find fork=>Grab fork=>Find knife=>Grab knife=>Find plate=>Eat plate
+Walk to home office=>Walk to computer=>Find computer=>Switch on computer
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch
+Walk to home office=>Walk to remote control=>Grab remote control=>Turn to remote control=>Point at remote control
+Walk to home office=>Walk to floor lamp=>Find light=>Switch on light=>Find novel=>Grab novel=>Find couch=>Sit on couch=>Read novel
+Wake up=>Stand up=>Walk to floor lamp=>Find light=>Switch on light=>Switch off light
+Walk to dining room=>Walk to sink=>Find sink=>Turn to sink=>Find plate=>Grab plate=>Put plate on sink=>Find dish soap=>Grab dish soap=>Squeeze dish soap=>Scrub plate=>Rinse plate=>Grab plate=>Find dishrack=>Put plate on dishrack
+Find remote control=>Grab remote control=>Find button=>Push button=>Put back remote control
+Walk to home office=>Walk to desk=>Find desk=>Walk to desk=>Find computer=>Switch on computer=>Find chair=>Pull chair=>Sit on chair=>Find mouse=>Grab mouse=>Find keyboard=>Type on keyboard=>Turn to computer=>Look at computer
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Push remote control=>Find remote control=>Push remote control
+Walk to dining room=>Walk to light=>Find light=>Switch on light=>Walk to kitchen cabinet=>Find pot=>Grab pot=>Walk to oven=>Put pot on oven=>Walk to freezer=>Open freezer=>Find food chicken=>Grab food chicken=>Walk to oven=>Put food chicken on oven
+Walk to home office=>Walk to light=>Find light=>Switch on light=>Walk to couch=>Sit on couch
+Walk to home office=>Walk to fax machine=>Find fax machine=>Switch on fax machine=>Find printing paper=>Grab printing paper=>Put printing paper on fax machine=>Find computer=>Find mouse=>Grab mouse=>Grab printing paper
+Walk to home office=>Walk to desk=>Find chair=>Sit on chair=>Find computer=>Switch on computer
+Find washing machine=>Open washing machine=>Find laundry detergent=>Grab laundry detergent=>Put laundry detergent on washing machine=>Find clothes pants=>Grab clothes pants=>Put clothes pants on washing machine=>Find clothes pants=>Grab clothes pants=>Put clothes pants on washing machine=>Find clothes shirt=>Grab clothes shirt=>Put clothes shirt on washing machine=>Find clothes shirt=>Grab clothes shirt=>Put clothes shirt on washing machine=>Close washing machine=>Switch on washing machine
+Walk to dining room=>Walk to coffee maker=>Find coffee maker=>Open coffee maker=>Find coffee filter=>Grab coffee filter=>Put coffee filter on coffee maker=>Find ground coffee=>Grab ground coffee=>Put ground coffee on coffee maker=>Walk to water=>Find water=>Grab water=>Pour water into coffee maker=>Close coffee maker=>Plug in coffee maker=>Switch on coffee maker
+Walk to home office=>Walk to phone=>Find phone=>Grab phone=>Find button=>Touch button
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Put back remote control=>Turn to television=>Watch television
+Walk to dining room=>Walk to coffee maker=>Find coffee maker=>Find coffee filter=>Grab coffee filter=>Open coffee maker=>Put coffee filter on coffee maker=>Walk to coffee=>Find coffee=>Grab coffee=>Pour coffee into coffee maker=>Switch on coffee maker
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Find television=>Switch on television=>Turn to television=>Watch television
+Find remote control=>Grab remote control=>Push remote control
+Walk to home office=>Walk to television=>Find television=>Switch on television=>Find remote control=>Grab remote control=>Turn to television=>Point at television=>Find button=>Touch button
+Walk to home office=>Walk to couch=>Find couch=>Lie on couch
+Walk to home office=>Walk to bookshelf=>Find bookshelf=>Open bookshelf=>Find novel=>Grab novel=>Read novel=>Put back novel=>Find novel=>Grab novel=>Find couch=>Sit on couch=>Read novel
+Walk to couch=>Find sheets=>Grab sheets=>Find pillow=>Grab pillow=>Sit on couch=>Put sheets on couch=>Put pillow on couch=>Grab sheets=>Put back sheets=>Sleep
+Walk to dining room=>Walk to faucet=>Find faucet=>Switch on faucet=>Find dish soap=>Grab dish soap=>Find plate=>Grab plate=>Wash plate
+Walk to bathroom=>Walk to water=>Find water=>Turn to water=>Look at water=>Find hands both=>Wash hands both
+Walk to home office=>Walk to curtain=>Open curtain=>Walk to curtain=>Open curtain
+Walk to home office=>Walk to clothes jacket=>Find clothes jacket=>Find clothes jacket=>Take off clothes jacket=>Grab clothes jacket=>Find hanger=>Put clothes jacket on hanger
+Walk to dining room=>Walk to basket for clothes=>Find basket for clothes=>Find washing machine=>Turn to washing machine=>Find soap=>Grab soap=>Open washing machine=>Put soap on washing machine=>Find clothes jacket=>Grab clothes jacket=>Put clothes jacket on washing machine=>Close washing machine=>Switch on washing machine
+Walk to bedroom=>Walk to dresser=>Find dresser=>Walk to dresser=>Open dresser=>Find clothes pants=>Grab clothes pants=>Put on clothes pants=>Find clothes shirt=>Grab clothes shirt=>Put on clothes shirt=>Close dresser
+Walk to dining room=>Walk to coffee maker=>Find coffee maker=>Switch on coffee maker
+Walk to home office=>Walk to couch=>Lie on couch
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Plug in television
+Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Read novel
+Find cat=>Touch cat=>Touch cat
+Walk to home office=>Walk to couch=>Find couch=>Find conditioner=>Find remote control=>Find television=>Switch on television=>Lie on couch
+Walk to home office=>Walk to cat=>Find cat=>Walk to cat=>Pull cat
+Walk to home office=>Walk to cat=>Find cat=>Turn to cat=>Look at cat=>Find couch=>Sit on couch=>Touch cat
+Find dishwasher=>Open dishwasher=>Find drinking glass=>Grab drinking glass=>Put drinking glass on dishwasher=>Find drinking glass=>Grab drinking glass=>Put drinking glass on dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Find fork=>Grab fork=>Put fork on dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to dining room=>Walk to cupboard=>Find cupboard=>Open cupboard=>Find cup=>Grab cup=>Close cupboard=>Walk to freezer=>Open freezer=>Find milk=>Grab milk=>Close freezer=>Pour milk into cup=>Drink cup
+Find basket for clothes=>Grab basket for clothes=>Walk to dining room=>Walk to washing machine=>Open washing machine=>Put basket for clothes on washing machine=>Close washing machine=>Switch on washing machine
+Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Read novel
+Walk to dining room=>Walk to bowl=>Find bowl=>Grab bowl=>Walk to water=>Find water=>Grab water=>Pour water into bowl=>Find sink=>Put bowl on sink=>Find cup=>Grab cup=>Find dish soap=>Grab dish soap=>Scrub cup=>Put back dish soap=>Wash cup
+Find toilet=>Sit on toilet=>Find toilet paper=>Grab toilet paper=>Find dresser=>Wash dresser
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Find television=>Switch on television=>Push remote control=>Turn to television=>Watch television
+Walk to bathroom=>Walk to toilet=>Find toilet=>Open toilet=>Sit on toilet
+Walk to dining room=>Walk to coffee maker=>Find coffee maker=>Open coffee maker=>Find coffee filter=>Grab coffee filter=>Put coffee filter on coffee maker=>Find ground coffee=>Grab ground coffee=>Put ground coffee on coffee maker=>Walk to water=>Find water=>Grab water=>Pour water into coffee maker=>Close coffee maker=>Switch on coffee maker
+Walk to home office=>Walk to wall clock=>Find wall clock=>Turn to wall clock=>Look at wall clock=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Put back remote control=>Turn to television=>Watch television
+Walk to bedroom=>Walk to dresser=>Find light=>Walk to electrical outlet=>Plug in light
+Walk to dining room=>Walk to food food=>Find food food=>Grab food food=>Find freezer=>Walk to freezer=>Open freezer=>Put food food in freezer
+Walk to bedroom=>Walk to dresser=>Open dresser=>Find clothes pants=>Grab clothes pants=>Put on clothes pants=>Find clothes shirt=>Grab clothes shirt=>Put on clothes shirt=>Close dresser
+Find food food=>Grab food food=>Walk to home office=>Walk to freezer=>Find freezer=>Open freezer=>Put back food food=>Close freezer
+Find coffee filter=>Grab coffee filter=>Find coffee maker=>Open coffee maker=>Put coffee filter on coffee maker=>Find coffee=>Grab coffee=>Put coffee on coffee maker=>Walk to water=>Find water=>Grab water=>Pour water into coffee maker=>Find button=>Push button=>Turn to coffee maker=>Look at coffee maker
+Walk to home office=>Walk to floor lamp=>Find floor lamp=>Switch on floor lamp=>Find floor lamp=>Switch on floor lamp
+Walk to bathroom=>Walk to rag=>Find rag=>Grab rag=>Walk to sink=>Find faucet=>Wipe faucet=>Wipe sink=>Put back rag
+Find computer=>Switch on computer=>Find chair=>Sit on chair=>Find keyboard=>Grab keyboard=>Type on keyboard=>Find mouse=>Turn to mouse=>Point at mouse=>Turn to computer=>Look at computer
+Walk to home office=>Walk to computer=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find mouse=>Push mouse=>Find button=>Push button
+Walk to home office=>Walk to couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Put back remote control=>Turn to television=>Watch television
+Find computer=>Switch on computer=>Find mouse=>Grab mouse=>Put back mouse=>Find keyboard=>Type on keyboard=>Grab mouse=>Put back mouse=>Switch off computer
+Walk to dining room=>Walk to sink=>Find plate=>Rinse plate=>Find sponge=>Grab sponge=>Wash plate
+Walk to bathroom=>Walk to toilet=>Find toilet=>Walk to toilet
+Walk to bedroom=>Walk to light=>Switch off light
+Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Find beer=>Grab beer=>Close freezer=>Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Drink beer
+Stand up=>Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find couch=>Walk to couch=>Sit on couch=>Find television=>Switch on television=>Turn to television=>Look at television
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Turn to remote control=>Look at remote control=>Find television=>Turn to television=>Point at television=>Switch on television=>Put back remote control
+Walk to basket for clothes=>Walk to bathroom=>Walk to washing machine=>Find washing machine=>Open washing machine=>Find clothes dress=>Grab clothes dress=>Put clothes dress on washing machine=>Find clothes pants=>Grab clothes pants=>Put clothes pants on washing machine=>Find clothes shirt=>Grab clothes shirt=>Put clothes shirt on washing machine=>Find clothes underwear=>Grab clothes underwear=>Put clothes underwear on washing machine=>Find soap=>Grab soap=>Put soap on washing machine=>Close washing machine=>Switch on washing machine
+Walk to home office=>Walk to phone=>Find phone=>Grab phone=>Find button=>Touch button
+Walk to dining room=>Walk to food food=>Find food food=>Grab food food=>Find freezer=>Open freezer=>Put food food in freezer
+Walk to bedroom=>Walk to novel=>Find novel=>Grab novel=>Walk to bed=>Lie on bed=>Read novel
+Walk to home office=>Walk to light=>Find light=>Switch on light=>Walk to bedroom=>Walk to light=>Find light=>Switch on light
+Walk to dining room=>Walk to light=>Find light=>Switch on light=>Walk to kitchen cabinet=>Find pot=>Grab pot=>Walk to oven=>Put pot on oven=>Walk to freezer=>Open freezer=>Find food chicken=>Grab food chicken=>Walk to oven=>Put food chicken on oven
+Walk to bedroom=>Walk to toy=>Find toy=>Grab toy=>Walk to filing cabinet=>Open filing cabinet=>Put toy on filing cabinet=>Find toy=>Grab toy=>Walk to filing cabinet=>Put toy on filing cabinet=>Find toy=>Grab toy=>Walk to filing cabinet=>Put toy on filing cabinet=>Close filing cabinet
+Walk to bedroom=>Walk to novel=>Find novel=>Grab novel=>Find chair=>Pull chair=>Sit on chair=>Read novel
+Walk to home office=>Walk to computer=>Find computer=>Switch on computer=>Find mouse=>Find keyboard=>Find mail=>Open mail=>Type on keyboard=>Find button=>Push button=>Close mail=>Switch off computer
+Walk to dining room=>Walk to water glass=>Find water glass=>Grab water glass=>Find faucet=>Switch on faucet=>Find water=>Find sink=>Put water glass on sink=>Grab water glass=>Switch off faucet=>Drink water glass
+Walk to home office=>Walk to couch=>Sit on couch=>Find television=>Switch on television
+Walk to dining room=>Walk to plate=>Find plate=>Grab plate=>Walk to dishwasher=>Open dishwasher=>Put plate on dishwasher=>Close dishwasher=>Switch on dishwasher
+Find remote control=>Grab remote control=>Find television=>Switch on television=>Turn to television=>Watch television=>Switch off television=>Put back remote control
+Walk to home office=>Walk to cat=>Find cat=>Touch cat
+Walk to bathroom=>Walk to sink=>Find sink=>Turn to sink=>Find faucet=>Switch on faucet=>Find hands both=>Rinse hands both=>Find soap=>Grab soap=>Squeeze soap=>Wash hands both=>Rinse hands both=>Switch off faucet=>Find towel=>Grab towel=>Wipe hands both
+Find check=>Grab check=>Drop check=>Walk to home office=>Walk to phone=>Find phone=>Grab phone=>Find stereo=>Switch on stereo=>Find couch=>Lie on couch=>Turn to phone=>Look at phone
+Find plate=>Grab plate=>Turn to plate=>Point at plate=>Wash plate=>Drop plate
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Walk to couch=>Sit on couch=>Find television=>Turn to television=>Point at television=>Switch on television=>Put remote control on couch=>Watch television
+Walk to home office=>Walk to bookshelf=>Find novel=>Grab novel=>Walk to couch=>Sit on couch=>Read novel
+Walk to bathroom=>Walk to paper towel=>Find paper towel=>Turn to paper towel=>Look at paper towel=>Grab paper towel=>Find hands both=>Wipe hands both
+Walk to bathroom=>Walk to sink=>Find sink=>Turn to sink=>Look at sink=>Walk to sink=>Find faucet=>Switch on faucet=>Find soap=>Grab soap=>Rinse soap=>Switch off faucet=>Find towel=>Grab towel
+Walk to home office=>Walk to cat=>Find cat=>Walk to cat=>Touch cat
+Walk to home office=>Walk to table=>Find novel=>Grab novel=>Read novel
+Walk to dining room=>Walk to cupboard=>Find cupboard=>Open cupboard=>Find water glass=>Grab water glass=>Walk to freezer=>Walk to water=>Find water=>Grab water=>Pour water into water glass=>Drink water glass
+Walk to home office=>Walk to computer=>Find computer=>Switch on computer=>Find keyboard=>Type on keyboard
+Walk to dining room=>Walk to cup=>Find cup=>Grab cup=>Find faucet=>Walk to sink=>Put cup on sink=>Switch on faucet=>Switch off faucet=>Grab cup=>Drink cup
+Walk to bathroom=>Walk to faucet=>Find faucet=>Turn to faucet=>Find water=>Grab water=>Find hands both=>Pour water into hands both
+Find cat=>Turn to cat=>Point at cat=>Turn to cat=>Look at cat=>Push cat=>Run to bedroom
+Walk to home office=>Walk to light=>Find light=>Switch on light=>Find phone=>Grab phone=>Walk to couch=>Sit on couch=>Lie on couch=>Type on phone
+Walk to dining room=>Walk to cupboard=>Find cupboard=>Open cupboard=>Find cup=>Grab cup=>Close cupboard=>Walk to sink=>Find faucet=>Switch on faucet=>Put cup on sink=>Grab cup=>Switch off faucet=>Drink cup
+Find cat=>Touch cat
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Open dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to home office=>Walk to couch=>Sit on couch=>Find cat=>Touch cat
+Find bookmark=>Touch bookmark=>Find novel=>Grab novel=>Read novel
+Walk to bathroom=>Walk to bathroom cabinet=>Find bathroom cabinet=>Open bathroom cabinet=>Find toilet paper=>Grab toilet paper=>Close bathroom cabinet=>Find toilet paper=>Grab toilet paper=>Find trashcan=>Put toilet paper on trashcan
+Walk to food food=>Grab food food=>Find freezer=>Open freezer=>Put food food in freezer=>Close freezer
+Walk to dining room=>Walk to rag=>Find rag=>Grab rag=>Find cleaning solution=>Grab cleaning solution=>Find cleaning solution=>Walk to sink=>Pour cleaning solution into sink=>Put back cleaning solution=>Wipe sink=>Find faucet=>Switch on faucet=>Rinse sink=>Rinse rag=>Switch off faucet=>Put back rag
+Find sink=>Turn to sink=>Find hands both=>Rinse hands both=>Scrub hands both=>Rinse hands both=>Turn to sink
+Find remote control=>Grab remote control=>Find television=>Turn to television=>Point at television=>Push remote control=>Switch on television=>Watch television
+Walk to home office=>Walk to couch=>Sit on couch=>Sleep
+Walk to dining room=>Walk to dish soap=>Find dish soap=>Grab dish soap=>Find plate=>Grab plate=>Put dish soap on plate=>Scrub plate=>Rinse plate=>Wipe plate
+Walk to bedroom=>Walk to toy=>Find toy=>Grab toy=>Walk to filing cabinet=>Open filing cabinet=>Put toy on filing cabinet=>Find toy=>Grab toy=>Walk to filing cabinet=>Put toy on filing cabinet=>Find toy=>Grab toy=>Walk to filing cabinet=>Put toy on filing cabinet=>Close filing cabinet
+Walk to dining room=>Walk to kitchen cabinet=>Find kitchen cabinet=>Open kitchen cabinet=>Find pasta=>Grab pasta=>Find water=>Grab water=>Find sauce pan=>Pour water into sauce pan=>Find oven=>Switch on oven=>Put pasta on sauce pan=>Find sauce pan=>Grab sauce pan=>Put sauce pan on oven
+Walk to home office=>Walk to floor lamp=>Find floor lamp=>Turn to floor lamp=>Look at floor lamp=>Walk to floor lamp=>Switch off floor lamp=>Find chair=>Turn to chair=>Look at chair=>Walk to chair=>Find pillow=>Grab pillow=>Walk to couch=>Put pillow on couch=>Lie on couch=>Sleep
+Walk to dining room=>Walk to dish soap=>Find dish soap=>Grab dish soap=>Find plate=>Grab plate=>Put dish soap on plate=>Scrub plate=>Rinse plate=>Wipe plate
+Find novel=>Grab novel=>Read novel
+Walk to bedroom=>Walk to fly=>Find fly=>Turn to fly=>Look at fly
+Walk to home office=>Walk to laptop=>Find laptop=>Switch on laptop=>Find mouse=>Grab mouse=>Find keyboard=>Type on keyboard
+Walk to bedroom=>Walk to basket for clothes=>Find basket for clothes=>Open basket for clothes=>Grab basket for clothes=>Walk to bathroom=>Walk to washing machine=>Find washing machine=>Open washing machine=>Put basket for clothes on washing machine=>Find soap=>Grab soap=>Put soap on washing machine=>Find washing machine=>Close washing machine=>Switch on washing machine
+Walk to home office=>Walk to shoes=>Find shoes=>Find shoes=>Take off shoes=>Walk to dresser=>Open dresser=>Grab shoes=>Put shoes in dresser=>Close dresser
+Walk to bathroom=>Walk to sink=>Find sink=>Turn to sink=>Find faucet=>Switch on faucet=>Find soap=>Grab soap=>Find hands both=>Scrub hands both=>Put back soap=>Rinse hands both=>Switch off faucet
+Walk to light=>Switch on light
+Walk to bathroom=>Walk to light=>Find light=>Switch on light=>Walk to sink=>Find soap=>Grab soap=>Find faucet=>Switch on faucet=>Find hands both=>Wash hands both=>Rinse hands both=>Put back soap=>Switch off faucet
+Walk to home office=>Walk to television=>Find remote control=>Grab remote control=>Switch on television=>Put back remote control=>Walk to couch=>Sit on couch=>Watch television
+Find drinking glass=>Grab drinking glass=>Walk to water=>Find water=>Grab water=>Pour water into drinking glass=>Drink drinking glass
+Find couch=>Sit on couch=>Sleep
+Walk to home office=>Walk to floor lamp=>Find floor lamp=>Turn to floor lamp=>Look at floor lamp=>Walk to floor lamp=>Switch off floor lamp=>Find chair=>Turn to chair=>Look at chair=>Walk to chair=>Find pillow=>Grab pillow=>Walk to couch=>Put pillow on couch=>Lie on couch=>Sleep
+Walk to home office=>Walk to television=>Find television=>Switch on television=>Find remote control=>Grab remote control=>Find chair=>Sit on chair=>Touch remote control=>Turn to television=>Watch television
+Walk to home office=>Walk to television=>Find television=>Find remote control=>Turn to remote control=>Switch on remote control
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find couch=>Sit on couch=>Find television=>Turn to television=>Look at television=>Turn to television=>Point at television=>Switch on television=>Push remote control=>Watch television
+Walk to home office=>Walk to cat=>Find cat=>Turn to cat=>Look at cat=>Find cat=>Walk to cat=>Touch cat
+Walk to home office=>Walk to laptop=>Find laptop=>Grab laptop=>Find couch=>Sit on couch=>Switch on laptop=>Find keyboard=>Type on keyboard=>Switch off laptop=>Put back laptop
+Walk to bedroom=>Walk to laptop=>Find laptop=>Grab laptop=>Walk to bed=>Sit on bed=>Switch on laptop=>Find keyboard=>Type on keyboard=>Turn to laptop=>Look at laptop
+Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Walk to couch=>Sit on couch=>Turn to novel=>Look at novel=>Read novel=>Read novel=>Read novel
+Walk to dining room=>Walk to plate=>Find plate=>Grab plate=>Find food food=>Grab food food=>Put food food on plate=>Walk to dining room=>Walk to table=>Find table=>Put plate on table=>Find chair=>Sit on chair=>Eat plate
+Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Find food bread=>Grab food bread=>Close freezer=>Find toaster=>Plug in toaster=>Put food bread on toaster=>Switch on toaster
+Walk to dining room=>Walk to child=>Find child=>Greet child=>Find woman=>Greet woman=>Find chair=>Sit on chair
+Walk to dining room=>Walk to sink=>Find sink=>Turn to sink=>Look at sink=>Find dish soap=>Grab dish soap=>Find dishwasher=>Open dishwasher=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Find coffee maker=>Open coffee maker=>Walk to coffee=>Find coffee=>Grab coffee=>Pour coffee into coffee maker=>Walk to water=>Find water=>Grab water=>Pour water into coffee maker=>Switch on coffee maker=>Drink coffee=>Find cup=>Wash cup
+Walk to home office=>Walk to desk=>Find novel=>Grab novel=>Walk to chair=>Sit on chair=>Read novel
+Walk to home office=>Walk to button=>Find button=>Push button=>Find chair=>Sit on chair=>Find computer=>Turn to computer=>Look at computer
+Walk to home office=>Walk to television=>Find television=>Find remote control=>Turn to remote control=>Switch on remote control
+Walk to bathroom=>Walk to sink=>Find sink=>Turn to sink=>Look at sink=>Walk to sink=>Find faucet=>Switch on faucet=>Find soap=>Grab soap=>Rinse soap=>Switch off faucet=>Find towel=>Grab towel
+Walk to dining room=>Walk to table=>Find table=>Find water glass=>Grab water glass=>Find water=>Grab water=>Walk to water=>Pour water into water glass=>Drink water glass
+Walk to home office=>Walk to desk=>Find chair=>Pull chair=>Sit on chair=>Find computer=>Turn to computer=>Look at computer=>Switch on computer
+Walk to home office=>Walk to computer=>Find computer=>Switch on computer
+Walk to dining room=>Walk to cup=>Find cup=>Grab cup=>Find faucet=>Walk to sink=>Put cup on sink=>Switch on faucet=>Switch off faucet=>Grab cup=>Drink cup
+Walk to home office=>Walk to dining room=>Walk to home office
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Find check=>Grab check=>Read check=>Find desk=>Open desk=>Put check on desk=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to button=>Find button=>Push button=>Find chair=>Sit on chair=>Find computer=>Turn to computer=>Look at computer
+Find phone=>Grab phone=>Find button=>Push button
+Walk to home office=>Walk to filing cabinet=>Find filing cabinet=>Turn to filing cabinet=>Look at filing cabinet=>Find novel=>Grab novel=>Read novel
+Walk to home office=>Walk to phone=>Find phone=>Turn to phone=>Look at phone=>Grab phone=>Switch on phone
+Walk to bedroom=>Walk to floor lamp=>Switch off floor lamp=>Walk to bed=>Lie on bed=>Sleep=>Sleep=>Sleep
+Walk to home office=>Walk to computer=>Find computer=>Switch on computer=>Find mouse=>Find keyboard=>Find mail=>Open mail=>Type on keyboard=>Find button=>Push button=>Close mail=>Switch off computer
+Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Find chair=>Sit on chair=>Read novel
+Walk to dining room=>Walk to light=>Find light=>Switch on light=>Walk to home office=>Walk to home office
+Walk to bedroom=>Walk to mirror=>Find mirror=>Turn to mirror=>Look at mirror=>Find face=>Turn to face=>Look at face=>Find hair=>Turn to hair=>Look at hair=>Find clothes dress=>Turn to clothes dress=>Look at clothes dress
+Walk to home office=>Walk to cat=>Touch cat
+Walk to dining room=>Walk to table=>Find food food=>Grab food food=>Put food food on table=>Find food food=>Grab food food=>Put food food on table=>Find food food=>Grab food food=>Walk to freezer=>Open freezer=>Put food food in freezer=>Close freezer=>Walk to table=>Find food food=>Grab food food=>Walk to freezer=>Open freezer=>Put food food in freezer=>Close freezer=>Walk to table=>Turn to table=>Look at table
+Walk to bedroom=>Walk to bed=>Lie on bed=>Sleep
+Walk to home office=>Walk to television=>Plug in television=>Switch on television=>Find video game console=>Plug in video game console=>Switch on video game console=>Find video game console=>Find video game controller=>Grab video game controller=>Walk to couch=>Sit on couch
+Walk to home office=>Walk to button=>Find button=>Push button=>Find couch=>Sit on couch=>Find television=>Turn to television=>Watch television
+Walk to home office=>Walk to television=>Find television=>Switch on television=>Find couch=>Walk to couch=>Sit on couch=>Turn to television=>Watch television
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Plug in television
+Find coffee maker=>Plug in coffee maker=>Open coffee maker=>Walk to water=>Find water=>Grab water=>Pour water into coffee maker=>Find coffee filter=>Grab coffee filter=>Put coffee filter on coffee maker=>Find ground coffee=>Grab ground coffee=>Put ground coffee on coffee maker=>Close coffee maker=>Switch on coffee maker
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch
+Walk to home office=>Walk to desk=>Find desk=>Turn to desk=>Find computer=>Turn to computer=>Look at computer=>Switch on computer=>Find keyboard=>Grab keyboard=>Find mouse=>Grab mouse
+Find table=>Pull table=>Walk to dining room
+Find couch=>Sit on couch=>Find sheets=>Grab sheets=>Put sheets on couch
+Walk to home office=>Walk to desk=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find folder=>Open folder=>Find check=>Grab check=>Read check=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Find spectacles=>Grab spectacles=>Put on spectacles=>Find light=>Plug in light=>Switch on light=>Find couch=>Sit on couch=>Turn to novel=>Look at novel=>Read novel
+Walk to bedroom=>Walk to basket for clothes=>Grab basket for clothes=>Walk to home office=>Walk to washing machine=>Open washing machine=>Put basket for clothes on washing machine=>Find laundry detergent=>Grab laundry detergent=>Put laundry detergent on washing machine=>Run to washing machine
+Walk to dining room=>Walk to chair=>Find chair=>Pull chair=>Sit on chair
+Find plate=>Grab plate=>Find cupboard=>Open cupboard=>Put plate on cupboard=>Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Find couch=>Sit on couch=>Find coffee table=>Touch coffee table=>Find spectacles=>Grab spectacles=>Read novel
+Walk to dining room=>Walk to washing machine=>Find washing machine=>Find basket for clothes=>Open basket for clothes=>Find soap=>Grab soap=>Open washing machine=>Put soap on washing machine=>Close washing machine=>Switch on washing machine
+Walk to home office=>Walk to rag=>Find rag=>Grab rag=>Walk to computer=>Wipe computer=>Put back rag
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find shoes=>Find shoes=>Grab shoes=>Drop shoes=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Turn to television=>Watch television
+Walk to dining room=>Walk to coffee maker=>Find coffee maker=>Open coffee maker=>Find coffee filter=>Grab coffee filter=>Put coffee filter on coffee maker=>Find coffee=>Grab coffee=>Put coffee on coffee maker
+Walk to home office=>Walk to desk=>Find computer=>Switch on computer=>Find chair=>Sit on chair=>Turn to computer=>Look at computer=>Find mail=>Grab mail=>Read mail=>Find keyboard=>Type on keyboard=>Switch off computer
+Walk to home office=>Walk to shoes=>Find shoes=>Find shoes=>Take off shoes=>Grab shoes=>Find floor=>Put shoes on floor
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Turn to computer=>Look at computer=>Switch on computer
+Walk to home office=>Walk to laptop=>Find laptop=>Grab laptop=>Walk to chair=>Sit on chair=>Switch on laptop=>Turn to laptop=>Look at laptop=>Touch laptop=>Turn to laptop=>Look at laptop=>Touch laptop=>Turn to laptop=>Look at laptop=>Touch laptop=>Turn to laptop=>Look at laptop=>Touch laptop
+Find cup=>Turn to cup=>Point at cup=>Grab cup=>Drink cup=>Turn to cup=>Look at cup
+Run to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Walk to couch=>Sit on couch=>Find television=>Turn to television=>Point at television=>Touch remote control=>Switch on television=>Turn to television=>Look at television=>Watch television=>Drop remote control=>Turn to television=>Look at television=>Watch television
+Walk to home office=>Walk to light=>Find light=>Switch on light=>Find keyboard=>Grab keyboard=>Find desk=>Open desk=>Put keyboard on desk=>Find mouse=>Grab mouse=>Find mousepad=>Put mouse on mousepad=>Plug in keyboard=>Plug in mouse=>Find computer=>Switch on computer=>Find chair=>Sit on chair=>Turn to computer=>Type on keyboard=>Grab mouse=>Touch mouse=>Look at computer
+Walk to couch=>Find sheets=>Grab sheets=>Find pillow=>Grab pillow=>Sit on couch=>Put sheets on couch=>Put pillow on couch=>Grab sheets=>Put back sheets=>Sleep
+Run to dining room=>Walk to coffee maker=>Find coffee filter=>Grab coffee filter=>Open coffee maker=>Put coffee filter on coffee maker=>Find coffee=>Grab coffee=>Pour coffee into coffee maker=>Put back coffee=>Walk to water=>Find water=>Grab water=>Pour water into coffee maker=>Switch on coffee maker
+Walk to bedroom=>Walk to basket for clothes=>Grab basket for clothes=>Walk to home office=>Walk to washing machine=>Open washing machine=>Put basket for clothes on washing machine=>Find laundry detergent=>Grab laundry detergent=>Put laundry detergent on washing machine=>Run to washing machine
+Walk to home office=>Walk to computer=>Find computer=>Switch on computer=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to cat=>Find cat=>Scrub cat
+Walk to home office=>Walk to desk=>Find chair=>Pull chair=>Sit on chair=>Find computer=>Turn to computer=>Look at computer=>Switch on computer
+Walk to home office=>Walk to computer=>Switch on computer=>Find chair=>Sit on chair=>Find mouse=>Grab mouse=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Put back remote control=>Turn to television=>Watch television
+Walk to home office=>Walk to clothes jacket=>Find clothes jacket=>Find clothes jacket=>Take off clothes jacket=>Grab clothes jacket=>Find hanger=>Put clothes jacket on hanger
+Walk to dining room=>Walk to cupboard=>Find cupboard=>Open cupboard=>Find water glass=>Grab water glass=>Walk to freezer=>Walk to water=>Find water=>Grab water=>Pour water into water glass=>Drink water glass
+Walk to home office=>Walk to desk=>Find desk=>Find chair=>Sit on chair=>Find novel=>Grab novel=>Read novel
+Walk to dining room=>Walk to rag=>Find rag=>Grab rag=>Walk to sink=>Find faucet=>Switch on faucet=>Put rag on sink=>Switch off faucet=>Grab rag=>Squeeze rag=>Walk to kitchen counter=>Wipe kitchen counter=>Put back rag
+Walk to home office=>Walk to light=>Find light=>Switch on light=>Find chair=>Sit on chair=>Find laptop=>Grab laptop=>Switch on laptop
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find table=>Turn to table=>Look at table=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Put back remote control=>Turn to television=>Turn to television=>Watch television
+Walk to home office=>Walk to floor lamp=>Switch on floor lamp
+Walk to dining room=>Walk to plate=>Find plate=>Turn to plate=>Look at plate=>Walk to sink=>Find dish soap=>Grab dish soap=>Put dish soap on sink=>Wash plate=>Rinse plate
+Find cat=>Touch cat
+Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Read novel
+Walk to bedroom=>Walk to remote control=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Put back remote control=>Find bed=>Sit on bed=>Turn to television=>Watch television
+Walk to dining room=>Walk to cupboard=>Find cupboard=>Open cupboard=>Find cup=>Grab cup=>Close cupboard=>Walk to freezer=>Open freezer=>Find milk=>Grab milk=>Close freezer=>Pour milk into cup=>Drink cup
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find couch=>Sit on couch=>Find television=>Turn to television=>Point at television=>Touch remote control
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Lie on couch
+Walk to home office=>Walk to desk=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Find keyboard=>Type on keyboard
+Find newspaper=>Turn to newspaper=>Point at newspaper=>Grab newspaper=>Read newspaper
+Find food apple=>Grab food apple=>Find freezer=>Open freezer=>Put food apple in freezer=>Find food egg=>Grab food egg=>Put food egg in freezer=>Find food fish=>Grab food fish=>Put food fish in freezer=>Close freezer
+Find cat=>Turn to cat=>Look at cat=>Walk to cat=>Touch cat
+Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Read novel
+Walk to bedroom=>Walk to light=>Find light=>Switch on light
+Find spectacles=>Grab spectacles=>Run to bedroom=>Walk to novel=>Find novel=>Grab novel=>Read novel=>Drop novel=>Drop spectacles
+Walk to bathroom=>Walk to toilet=>Find clothes pants=>Find clothes pants=>Take off clothes pants=>Sit on toilet=>Find toilet paper=>Grab toilet paper=>Find woman=>Wipe woman
+Find phone=>Walk to home office=>Walk to phone=>Grab phone
+Walk to home office=>Walk to television=>Find television=>Walk to television=>Switch on television=>Find video game console=>Switch on video game console=>Find video game controller=>Grab video game controller=>Find chair=>Walk to chair=>Sit on chair=>Turn to television=>Look at television
+Walk to bathroom=>Walk to cleaning solution=>Find cleaning solution=>Grab cleaning solution=>Find bathtub=>Wash bathtub=>Find toilet=>Wash toilet=>Walk to dining room=>Walk to sink=>Find sink=>Wash sink
+Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Find couch=>Sit on couch=>Read novel
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch
+Walk to dining room=>Walk to soap=>Find soap=>Grab soap=>Scrub soap=>Find towel=>Rinse towel
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer
+Walk to bathroom=>Walk to toilet=>Find toilet=>Sit on toilet
+Walk to phone=>Grab phone
+Walk to dining room=>Walk to pot=>Find pot=>Grab pot=>Walk to oven=>Put pot on oven=>Walk to freezer=>Open freezer=>Find food egg=>Grab food egg=>Find food egg=>Grab food egg=>Close freezer=>Walk to oven=>Switch on oven=>Put food egg on pot=>Put food egg on pot=>Grab pot=>Pull pot=>Push pot=>Switch off oven
+Walk to home office=>Walk to desk=>Find desk=>Walk to desk=>Find computer=>Switch on computer=>Find chair=>Pull chair=>Sit on chair=>Find mouse=>Grab mouse=>Find keyboard=>Type on keyboard=>Turn to computer=>Look at computer
+Find cat=>Touch cat
+Find shoes=>Turn to shoes=>Point at shoes=>Wash shoes
+Find soap=>Grab soap=>Find sink=>Turn to sink=>Find hands both=>Wash hands both=>Rinse hands both
+Find novel=>Turn to novel=>Look at novel=>Grab novel=>Read novel
+Walk to bedroom=>Walk to floor lamp=>Find floor lamp=>Switch on floor lamp=>Find novel=>Grab novel=>Read novel
+Walk to home office=>Walk to desk=>Find chair=>Sit on chair=>Find floor lamp=>Switch on floor lamp=>Find novel=>Grab novel=>Read novel
+Find couch=>Sit on couch=>Lie on couch
+Walk to dining room=>Walk to sink=>Find faucet=>Switch on faucet=>Find dish soap=>Grab dish soap=>Pour dish soap into sink=>Put back dish soap=>Find rag=>Grab rag=>Find plate=>Grab plate=>Scrub plate=>Rinse plate=>Find dishrack=>Put plate on dishrack=>Find plate=>Grab plate=>Scrub plate=>Rinse plate=>Put plate on dishrack=>Switch off faucet=>Put back rag
+Walk to bedroom=>Walk to bed=>Find bed=>Lie on bed=>Sleep
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find mail=>Grab mail=>Read mail
+Find clothes underwear=>Grab clothes underwear=>Find washing machine=>Open washing machine=>Put clothes underwear on washing machine=>Find washing machine=>Close washing machine=>Switch on washing machine=>Rinse clothes underwear
+Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Find water glass=>Grab water glass=>Drink water glass
+Walk to bathroom=>Walk to cleaning solution=>Find cleaning solution=>Grab cleaning solution=>Find rag=>Grab rag=>Pour cleaning solution into rag=>Put back cleaning solution=>Walk to mirror=>Wipe mirror=>Put back rag
+Walk to bathroom=>Walk to sink=>Find sink=>Find soap=>Grab soap=>Find hands both=>Scrub hands both=>Find faucet=>Switch on faucet=>Rinse hands both=>Find paper towel=>Grab paper towel=>Wipe hands both
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find window=>Turn to window=>Look at window
+Walk to dining room=>Walk to floor lamp=>Switch on floor lamp=>Find floor lamp=>Turn to floor lamp=>Switch on floor lamp
+Walk to home office=>Walk to table=>Find table=>Find computer=>Switch on computer
+Walk to home office=>Walk to desk=>Find computer=>Switch on computer=>Find chair=>Pull chair=>Sit on chair=>Find keyboard=>Type on keyboard=>Find mouse=>Grab mouse
+Find table=>Turn to table=>Point at table=>Wash table=>Turn to table=>Look at table=>Touch table
+Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Find chair=>Sit on chair
+Walk to dining room=>Walk to rag=>Find rag=>Grab rag=>Walk to table=>Find chair=>Pull chair=>Wipe chair=>Push chair=>Find chair=>Pull chair=>Wipe chair=>Push chair=>Wipe table=>Put back rag=>Find broom=>Grab broom=>Put back broom
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find remote control=>Grab remote control=>Find television=>Turn to television=>Point at television=>Switch on television=>Put back remote control
+Walk to home office=>Walk to home office=>Walk to computer=>Find computer=>Switch on computer=>Find button=>Turn to button=>Look at button=>Find mouse=>Grab mouse=>Grab button=>Find chair=>Sit on chair=>Switch off computer
+Walk to dining room=>Walk to water=>Find water=>Grab water=>Find drinking glass=>Pour water into drinking glass=>Find drinking glass=>Grab drinking glass=>Drink drinking glass
+Walk to bathroom=>Walk to sink=>Find sink=>Walk to sink=>Find soap=>Find faucet=>Switch on faucet=>Find hands both=>Wash hands both=>Rinse hands both=>Switch off faucet
+Walk to home office=>Walk to board game=>Find board game=>Grab board game=>Walk to dining room=>Walk to table=>Put board game on table
+Find toilet=>Sit on toilet=>Find toilet paper=>Grab toilet paper=>Find dresser=>Wash dresser
+Find basket for clothes=>Grab basket for clothes=>Find washing machine=>Open washing machine=>Put basket for clothes on washing machine=>Find soap=>Grab soap=>Put soap on washing machine=>Find washing machine=>Turn to washing machine
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find couch=>Sit on couch=>Find television=>Switch on television=>Turn to television=>Look at television
+Walk to home office=>Walk to couch=>Find couch=>Lie on couch
+Walk to home office=>Walk to couch=>Find couch=>Find conditioner=>Find remote control=>Find television=>Switch on television=>Lie on couch
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Walk to couch=>Sit on couch=>Touch remote control=>Find television=>Switch on television
+Walk to dining room=>Walk to sink=>Find faucet=>Switch on faucet=>Find cup=>Grab cup=>Turn to faucet=>Point at faucet=>Switch off faucet=>Drink cup
+Walk to home office=>Walk to couch=>Sit on couch
+Walk to home office=>Walk to cat=>Find cat=>Touch cat
+Walk to dining room=>Walk to table=>Find table=>Turn to table=>Find plate=>Grab plate=>Walk to dining room=>Walk to sink=>Find sink=>Put plate on sink
+Find soap=>Grab soap=>Find sink=>Turn to sink=>Find hands both=>Wash hands both=>Rinse hands both
+Walk to dining room=>Walk to washing machine=>Find washing machine=>Find basket for clothes=>Grab basket for clothes=>Open washing machine=>Put basket for clothes on washing machine=>Walk to laundry detergent=>Find laundry detergent=>Grab laundry detergent=>Pour laundry detergent into washing machine=>Close washing machine=>Switch on washing machine
+Walk to bathroom=>Walk to cleaning solution=>Find cleaning solution=>Grab cleaning solution=>Find bathtub=>Wash bathtub=>Find toilet=>Wash toilet=>Walk to dining room=>Walk to sink=>Find sink=>Wash sink
+Walk to bathroom=>Walk to toilet=>Find toilet=>Turn to toilet=>Look at toilet=>Walk to toilet=>Turn to toilet
+Walk to home office=>Walk to address book=>Find address book=>Grab address book=>Read address book
+Walk to bathroom=>Walk to window=>Find window=>Open window
+Walk to dining room=>Walk to kitchen cabinet=>Find kitchen cabinet=>Open kitchen cabinet=>Find plate=>Grab plate=>Find dishwasher=>Open dishwasher=>Put plate on dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher=>Grab plate=>Wipe plate=>Find dishrack=>Grab dishrack=>Put back dishrack
+Walk to phone=>Grab phone
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find novel=>Grab novel=>Find bookmark=>Read novel
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard=>Find creditcard=>Grab creditcard=>Turn to creditcard=>Look at creditcard=>Find desk=>Open desk=>Put creditcard on desk=>Type on keyboard
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find table=>Turn to table=>Look at table=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Put back remote control=>Turn to television=>Turn to television=>Watch television
+Find kitchen counter=>Turn to kitchen counter=>Look at kitchen counter=>Find cup=>Grab cup=>Rinse cup=>Find dishwasher=>Open dishwasher=>Put cup on dishwasher=>Turn to kitchen counter=>Look at kitchen counter=>Find cup=>Grab cup=>Rinse cup=>Put cup on dishwasher=>Turn to kitchen counter=>Look at kitchen counter=>Find plate=>Grab plate=>Rinse plate=>Put plate on dishwasher=>Turn to kitchen counter=>Look at kitchen counter=>Find plate=>Grab plate=>Rinse plate=>Put plate on dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Find dishwasher=>Close dishwasher=>Run to dining room
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Walk to couch=>Sit on couch=>Touch remote control=>Touch remote control=>Touch remote control=>Find television=>Turn to television=>Look at television=>Watch television=>Watch television=>Watch television
+Find coffee filter=>Grab coffee filter=>Find coffee maker=>Open coffee maker=>Put coffee filter on coffee maker=>Find coffee=>Grab coffee=>Put coffee on coffee maker=>Walk to water=>Find water=>Grab water=>Pour water into coffee maker=>Find button=>Push button=>Turn to coffee maker=>Look at coffee maker
+Walk to home office=>Walk to couch=>Find couch=>Turn to couch=>Look at couch=>Lie on couch=>Sleep
+Walk to bedroom=>Walk to dresser=>Find dresser=>Walk to dresser=>Open dresser=>Find clothes pants=>Grab clothes pants=>Put on clothes pants=>Find clothes shirt=>Grab clothes shirt=>Put on clothes shirt=>Close dresser
+Walk to home office=>Walk to remote control=>Find remote control=>Walk to remote control=>Grab remote control=>Find couch=>Walk to couch=>Lie on couch=>Find television=>Switch on television=>Drop remote control
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Open dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to home office=>Walk to couch=>Find couch=>Lie on couch=>Sleep
+Walk to dining room=>Walk to basket for clothes=>Find basket for clothes=>Find washing machine=>Turn to washing machine=>Find soap=>Grab soap=>Open washing machine=>Put soap on washing machine=>Find clothes jacket=>Grab clothes jacket=>Put clothes jacket on washing machine=>Close washing machine=>Switch on washing machine
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch
+Walk to bedroom=>Walk to dresser=>Find dresser=>Open dresser=>Find hanger=>Find clothes shirt=>Find clothes shirt=>Take off clothes shirt=>Grab clothes shirt=>Put clothes shirt in dresser
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Find check=>Grab check=>Read check=>Find desk=>Open desk=>Put check on desk=>Find keyboard=>Type on keyboard
+Walk to bedroom=>Walk to dresser=>Open dresser=>Find clothes pants=>Grab clothes pants=>Put on clothes pants=>Find clothes shirt=>Grab clothes shirt=>Put on clothes shirt=>Find clothes socks=>Grab clothes socks=>Put on clothes socks=>Close dresser=>Find shoes=>Grab shoes=>Put on shoes
+Walk to home office=>Walk to cat=>Find cat=>Touch cat
+Walk to dining room=>Walk to faucet=>Find faucet=>Switch on faucet=>Find hands both=>Rinse hands both=>Switch off faucet=>Find cleaning solution=>Squeeze cleaning solution=>Scrub hands both=>Switch on faucet=>Rinse hands both=>Switch off faucet
+Find food food=>Grab food food=>Find freezer=>Open freezer=>Put food food in freezer=>Find freezer=>Close freezer
+Walk to home office=>Walk to newspaper=>Find newspaper=>Grab newspaper=>Walk to couch=>Sit on couch=>Turn to newspaper=>Look at newspaper=>Read newspaper=>Read newspaper=>Read newspaper
+Walk to bathroom=>Walk to bathroom cabinet=>Open bathroom cabinet=>Find paper towel=>Grab paper towel=>Close bathroom cabinet=>Walk to mirror=>Find cleaning solution=>Rinse cleaning solution=>Wipe mirror
+Walk to home office=>Walk to television=>Switch on television=>Find remote control=>Grab remote control=>Find chair=>Sit on chair=>Turn to television=>Watch television
+Walk to dining room=>Walk to kitchen cabinet=>Find kitchen cabinet=>Open kitchen cabinet=>Find knife=>Grab knife=>Find cutting board=>Grab cutting board=>Close kitchen cabinet=>Walk to table=>Put knife on table=>Put cutting board on table=>Walk to freezer=>Open freezer=>Find food vegetable=>Grab food vegetable=>Close freezer=>Walk to table=>Put food vegetable on cutting board=>Grab knife=>Cut food vegetable=>Put back knife
+Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Find drinking glass=>Grab drinking glass=>Find water=>Drink drinking glass
+Walk to bedroom=>Walk to dresser=>Find dresser=>Open dresser=>Find pajamas=>Grab pajamas=>Put on pajamas=>Close dresser=>Walk to bed=>Lie on bed=>Sleep
+Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Find beer=>Grab beer=>Close freezer=>Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Drink beer
+Walk to home office=>Walk to computer=>Find computer=>Switch on computer=>Find keyboard=>Find mouse=>Find check=>Find homework=>Grab homework=>Find homework=>Read homework=>Switch off computer
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Sleep
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Lie on couch
+Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Find food food=>Grab food food=>Put food food in freezer=>Close freezer
+Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Find drinking glass=>Grab drinking glass=>Drink drinking glass=>Put back drinking glass=>Close freezer
+Walk to home office
+Walk to home office=>Walk to desk=>Find computer=>Switch on computer=>Find chair=>Pull chair=>Sit on chair=>Turn to computer=>Look at computer=>Find mouse=>Grab mouse=>Pull mouse=>Touch mouse=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard=>Turn to computer=>Look at computer=>Type on keyboard=>Turn to computer=>Look at computer=>Type on keyboard=>Touch mouse=>Find fax machine=>Switch on fax machine=>Switch off fax machine=>Switch off computer
+Walk to bedroom=>Walk to dresser=>Open dresser=>Find novel=>Grab novel=>Find bed=>Sit on bed=>Read novel
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Sleep
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Walk to couch=>Sit on couch=>Find television=>Turn to television=>Point at television=>Switch on television=>Put remote control on couch=>Watch television
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Walk to couch=>Sit on couch=>Find television=>Switch on television=>Find coffee table=>Put remote control on coffee table=>Turn to television=>Watch television
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find mouse=>Grab mouse=>Turn to computer=>Point at computer=>Find folder=>Open folder=>Find mail=>Grab mail=>Read mail=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to remote control=>Find remote control=>Push remote control
+Walk to bedroom=>Walk to bookshelf=>Find novel=>Grab novel=>Turn to novel=>Look at novel=>Walk to bed=>Sit on bed=>Read novel
+Walk to bathroom=>Walk to toilet=>Find toilet
+Walk to home office=>Walk to bookshelf=>Find novel=>Grab novel=>Walk to table=>Put novel on table
+Find washing machine=>Open washing machine=>Find laundry detergent=>Grab laundry detergent=>Put laundry detergent on washing machine=>Find clothes pants=>Grab clothes pants=>Put clothes pants on washing machine=>Find clothes pants=>Grab clothes pants=>Put clothes pants on washing machine=>Find clothes shirt=>Grab clothes shirt=>Put clothes shirt on washing machine=>Find clothes shirt=>Grab clothes shirt=>Put clothes shirt on washing machine=>Close washing machine=>Switch on washing machine
+Walk to dining room=>Walk to coffee maker=>Find coffee maker=>Turn to coffee maker=>Find coffee filter=>Grab coffee filter=>Open coffee maker=>Put coffee filter on coffee maker=>Find ground coffee=>Grab ground coffee=>Put ground coffee on coffee maker=>Switch on coffee maker
+Walk to home office=>Walk to clothes jacket=>Find clothes jacket=>Find clothes jacket=>Take off clothes jacket=>Walk to hanger=>Grab clothes jacket=>Put clothes jacket on hanger
+Find clothes dress=>Grab clothes dress=>Walk to bathroom=>Walk to washing machine=>Find washing machine=>Open washing machine=>Drop clothes dress=>Find laundry detergent=>Grab laundry detergent=>Pour laundry detergent into washing machine=>Close washing machine=>Switch on washing machine
+Walk to home office=>Walk to drawing=>Turn to drawing=>Look at drawing=>Find drawing=>Turn to drawing=>Look at drawing
+Walk to bathroom=>Walk to clothes pants=>Find clothes pants=>Pull clothes pants=>Find toilet=>Sit on toilet
+Walk to dining room=>Walk to coffee filter=>Find coffee filter=>Grab coffee filter=>Find coffee maker=>Open coffee maker=>Put coffee filter on coffee maker=>Find coffee=>Grab coffee=>Put coffee on coffee maker=>Walk to water=>Find water=>Grab water=>Pour water into coffee maker=>Find coffee pot=>Grab coffee pot=>Put coffee pot on coffee maker=>Find coffee maker=>Switch on coffee maker
+Walk to dining room=>Walk to water glass=>Find water glass=>Grab water glass=>Find faucet=>Switch on faucet=>Rinse water glass=>Switch off faucet=>Drink water glass=>Put back water glass
+Walk to bedroom=>Walk to light=>Find light=>Switch on light
+Walk to bathroom=>Walk to faucet=>Find faucet=>Switch on faucet=>Find hands both=>Rinse hands both=>Find soap=>Grab soap=>Scrub soap=>Put back soap=>Scrub hands both=>Rinse hands both=>Switch off faucet=>Find towel=>Grab towel=>Wipe hands both=>Put back towel
+Walk to bathroom=>Walk to sink=>Find water=>Turn to water=>Find soap=>Grab soap=>Find hands both=>Scrub hands both=>Rinse hands both=>Turn to water=>Find paper towel=>Grab paper towel
+Walk to dining room=>Walk to cupboard=>Open cupboard=>Find plate=>Grab plate=>Close cupboard
+Find bookmark=>Touch bookmark=>Find novel=>Grab novel=>Read novel
+Walk to home office=>Walk to bedroom=>Walk to basket for clothes=>Find basket for clothes=>Grab basket for clothes=>Walk to dining room=>Walk to washing machine=>Find washing machine=>Open washing machine=>Put basket for clothes on washing machine=>Find laundry detergent=>Grab laundry detergent=>Put laundry detergent on washing machine=>Close washing machine=>Turn to washing machine
+Run to home office=>Walk to chair=>Find chair=>Sit on chair=>Find phone=>Grab phone
+Walk to home office=>Walk to cat=>Find cat=>Find toy=>Grab toy=>Find chair=>Put toy on chair=>Touch cat
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Turn to television=>Watch television
+Run to home office=>Walk to light=>Find light=>Switch on light=>Find phone=>Grab phone=>Put back phone=>Switch off light
+Walk to home office=>Walk to table=>Find table=>Pull table=>Walk to home office=>Walk to table=>Push table
+Walk to home office=>Walk to computer=>Find computer=>Switch on computer=>Find chair=>Sit on chair=>Turn to computer=>Look at computer=>Find check=>Grab check=>Read check=>Find keyboard=>Type on keyboard=>Stand up=>Find fax machine=>Switch on fax machine=>Find printing paper=>Grab printing paper=>Put printing paper on fax machine
+Walk to bathroom=>Walk to shower=>Find soap=>Scrub soap=>Find water=>Rinse water
+Walk to home office=>Walk to couch=>Sit on couch
+Walk to bedroom=>Walk to toy=>Find toy=>Grab toy=>Walk to filing cabinet=>Open filing cabinet=>Put toy on filing cabinet=>Find toy=>Grab toy=>Walk to filing cabinet=>Put toy on filing cabinet=>Find toy=>Grab toy=>Walk to filing cabinet=>Put toy on filing cabinet=>Close filing cabinet
+Walk to home office=>Walk to desk=>Find chair=>Sit on chair=>Find keyboard=>Type on keyboard
+Walk to dining room=>Walk to plate=>Find plate=>Grab plate=>Find dishwasher=>Open dishwasher=>Put plate on dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Find dishwasher=>Close dishwasher=>Switch on dishwasher=>Switch off dishwasher=>Grab plate=>Find dishrack=>Put plate on dishrack
+Walk to dining room=>Walk to kitchen cabinet=>Find kitchen cabinet=>Open kitchen cabinet=>Find knife=>Grab knife=>Find plate=>Grab plate=>Close kitchen cabinet=>Find table=>Put plate on table=>Put knife on table=>Find freezer=>Open freezer=>Find food bread=>Grab food bread=>Close freezer=>Put food bread on plate=>Grab knife=>Cut food bread=>Put back knife
+Find remote control=>Find television=>Switch on television=>Find television=>Turn to television=>Watch television
+Walk to dining room=>Walk to table=>Find table=>Turn to table=>Find chair=>Sit on chair=>Find food food=>Grab food food=>Find plate=>Put food food on plate=>Grab food food=>Put back food food=>Find fork=>Grab fork=>Eat plate
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Turn to television=>Watch television
+Find cat=>Turn to cat=>Look at cat=>Touch cat=>Touch cat
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Open dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Find fork=>Grab fork=>Find dishrack=>Put fork on dishrack=>Find plate=>Grab plate=>Put plate on dishrack=>Find spoon=>Grab spoon=>Put spoon on dishrack=>Find knife=>Grab knife=>Put knife on dishrack=>Close dishwasher=>Switch on dishwasher
+Walk to home office=>Walk to drawing=>Turn to drawing=>Look at drawing=>Find drawing=>Turn to drawing=>Look at drawing
+Walk to home office=>Walk to bills=>Find bills=>Grab bills=>Walk to filing cabinet=>Open filing cabinet=>Put bills in filing cabinet=>Find check=>Grab check=>Walk to filing cabinet=>Put check in filing cabinet=>Find check=>Grab check=>Walk to filing cabinet=>Put check in filing cabinet
+Find cat=>Touch cat=>Touch cat
+Walk to home office=>Walk to desk=>Find desk=>Turn to desk=>Look at desk=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Find keyboard=>Type on keyboard
+Walk to bedroom=>Walk to light=>Switch off light
+Walk to bathroom=>Walk to toilet=>Find toilet=>Sit on toilet=>Find toilet paper=>Grab toilet paper=>Wipe toilet paper=>Stand up=>Walk to sink=>Find soap=>Wash soap
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Turn to television=>Watch television
+Walk to dining room=>Walk to plate=>Find plate=>Grab plate=>Find dishwasher=>Open dishwasher=>Put plate on dishwasher=>Find fork=>Grab fork=>Put fork on dishwasher=>Find cup=>Grab cup=>Put cup on dishwasher=>Find spoon=>Grab spoon=>Put spoon on dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Find dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to home office=>Walk to chair=>Find chair=>Pull chair=>Find computer=>Switch on computer
+Find remote control=>Find television=>Turn to television=>Point at television=>Find button=>Push button
+Walk to bathroom=>Walk to sink=>Find sink=>Turn to sink=>Look at sink=>Walk to sink=>Find faucet=>Switch on faucet=>Find soap=>Grab soap=>Rinse soap=>Switch off faucet=>Find towel=>Grab towel
+Walk to home office=>Walk to couch=>Sit on couch
+Find food food=>Grab food food=>Walk to home office=>Walk to freezer=>Find freezer=>Open freezer=>Put back food food=>Close freezer
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find laptop=>Switch on laptop=>Turn to laptop=>Look at laptop=>Find mail=>Grab mail=>Read mail=>Find keyboard=>Type on keyboard=>Switch off laptop
+Walk to home office=>Walk to woman=>Find woman=>Greet woman=>Find woman=>Greet woman
+Walk to home office=>Walk to phone=>Find phone=>Grab phone
+Walk to dining room=>Walk to table=>Find table=>Turn to table=>Find plate=>Grab plate=>Walk to dining room=>Walk to sink=>Find sink=>Put plate on sink
+Walk to bedroom=>Walk to clothes dress=>Find clothes dress=>Grab clothes dress=>Walk to dresser=>Find hanger=>Open dresser=>Put clothes dress in dresser=>Find clothes dress=>Grab clothes dress=>Walk to dresser=>Put clothes dress in dresser=>Close dresser
+Walk to bedroom=>Walk to basket for clothes=>Find basket for clothes=>Grab basket for clothes=>Walk to home office=>Walk to table=>Find table=>Put basket for clothes on table=>Walk to filing cabinet=>Open filing cabinet=>Find laundry detergent=>Grab laundry detergent=>Find washing machine=>Open washing machine=>Pour laundry detergent into washing machine=>Put back laundry detergent=>Close filing cabinet=>Find clothes dress=>Grab clothes dress=>Put clothes dress on washing machine=>Find clothes pants=>Grab clothes pants=>Put clothes pants on washing machine=>Find clothes shirt=>Grab clothes shirt=>Put clothes shirt on washing machine=>Plug in washing machine=>Close washing machine=>Switch on washing machine
+Walk to dining room=>Walk to freezer=>Find food food=>Grab food food=>Open freezer=>Put food food in freezer
+Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Find drinking glass=>Grab drinking glass=>Find water=>Drink drinking glass
+Walk to home office=>Walk to filing cabinet=>Find filing cabinet=>Open filing cabinet=>Find folder=>Grab folder=>Close filing cabinet=>Find chair=>Sit on chair=>Find desk=>Open desk=>Put folder on desk=>Find computer=>Switch on computer=>Find mouse=>Grab mouse=>Turn to computer=>Look at computer=>Open folder=>Find check=>Grab check=>Turn to check=>Look at check=>Put check on desk=>Find keyboard=>Type on keyboard
+Walk to dining room=>Walk to food food=>Find food food=>Grab food food=>Walk to freezer=>Open freezer=>Put food food in freezer=>Close freezer
+Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Find chair=>Sit on chair=>Find bookmark=>Read novel
+Walk to dining room=>Walk to cupboard=>Find cupboard=>Open cupboard=>Find water glass=>Grab water glass=>Walk to water=>Find water=>Grab water=>Pour water into water glass=>Drink water glass
+Walk to bathroom=>Walk to cleaning solution=>Find cleaning solution=>Squeeze cleaning solution=>Find hands both=>Wash hands both
+Walk to table=>Find plate=>Grab plate=>Drop plate=>Find fork=>Grab fork=>Drop fork=>Find spoon=>Grab spoon=>Drop spoon
+Walk to home office=>Walk to remote control=>Find remote control=>Find couch=>Sit on couch=>Grab remote control=>Find television=>Switch on television=>Turn to television=>Watch television
+Find dishwasher=>Open dishwasher=>Find drinking glass=>Grab drinking glass=>Put drinking glass on dishwasher=>Find drinking glass=>Grab drinking glass=>Put drinking glass on dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Find fork=>Grab fork=>Put fork on dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to bathroom=>Walk to toilet=>Find toilet=>Open toilet=>Sit on toilet
+Walk to bathroom=>Walk to basket for clothes=>Find basket for clothes=>Grab basket for clothes=>Walk to washing machine=>Open washing machine=>Put basket for clothes on washing machine=>Find soap=>Grab soap=>Walk to washing machine=>Put soap on washing machine=>Close washing machine=>Switch on washing machine
+Walk to home office=>Walk to light=>Find light=>Plug in light=>Switch on light=>Find chair=>Sit on chair
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Touch remote control=>Turn to television=>Watch television
+Walk to dining room=>Walk to plate=>Find plate=>Grab plate=>Find food food=>Grab food food=>Put food food on plate=>Walk to dining room=>Walk to table=>Find table=>Put plate on table=>Find chair=>Sit on chair=>Eat plate
+Walk to home office=>Walk to laptop=>Find laptop=>Switch on laptop=>Find mouse=>Grab mouse=>Find keyboard=>Type on keyboard
+Walk to dining room=>Walk to coffee maker=>Find coffee maker=>Open coffee maker=>Find coffee filter=>Grab coffee filter=>Put coffee filter on coffee maker=>Find ground coffee=>Grab ground coffee=>Put ground coffee on coffee maker=>Walk to water=>Find water=>Grab water=>Pour water into coffee maker=>Close coffee maker=>Switch on coffee maker
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find button=>Push button
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Find check=>Grab check=>Find check=>Grab check=>Read check=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to television=>Find television=>Turn to television=>Look at television=>Find remote control=>Grab remote control=>Find button=>Push button=>Turn to television=>Look at television
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find laptop=>Pull laptop=>Switch on laptop=>Turn to laptop=>Look at laptop=>Find keyboard=>Type on keyboard
+Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Find milk=>Grab milk=>Put milk in freezer=>Find food turkey=>Grab food turkey=>Put food turkey in freezer=>Find food egg=>Find food egg=>Grab food egg=>Put food egg in freezer=>Grab food egg=>Find food egg=>Grab food egg=>Put food egg in freezer=>Put food egg in freezer=>Find food fish=>Grab food fish=>Put food fish in freezer=>Find food chicken=>Grab food chicken=>Put food chicken in freezer
+Walk to dining room=>Walk to table cloth=>Find table cloth=>Grab table cloth=>Walk to table=>Put table cloth on table=>Find bowl=>Grab bowl=>Find bowl=>Grab bowl=>Walk to table=>Put bowl on table=>Put bowl on table=>Find napkin=>Grab napkin=>Find napkin=>Grab napkin=>Walk to table=>Put napkin on table=>Put napkin on table=>Find fork=>Grab fork=>Find fork=>Grab fork=>Walk to table=>Put fork on table=>Put fork on table
+Walk to dining room=>Walk to table=>Find chair=>Pull chair=>Sit on chair=>Find plate=>Find food food=>Grab food food=>Put food food on plate=>Eat plate
+Walk to bathroom=>Walk to cleaning solution=>Find cleaning solution=>Grab cleaning solution=>Walk to mirror=>Put back cleaning solution=>Find rag=>Grab rag=>Walk to mirror=>Wipe mirror=>Wipe mirror=>Wipe mirror=>Put back rag
+Walk to home office=>Walk to computer=>Switch on computer=>Find keyboard=>Type on keyboard=>Turn to computer=>Look at computer=>Switch off computer
+Walk to home office=>Walk to remote control=>Find remote control=>Turn to remote control=>Look at remote control=>Grab remote control=>Find television=>Plug in television=>Switch on television=>Find couch=>Lie on couch=>Turn to remote control=>Point at remote control=>Turn to television=>Watch television
+Find mail=>Grab mail=>Walk to table=>Drop mail
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Open dishwasher=>Find dishrack=>Find plate=>Grab plate=>Put plate on dishrack=>Find plate=>Grab plate=>Put plate on dishrack=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to bookshelf=>Find bookshelf=>Turn to bookshelf=>Find novel=>Grab novel=>Walk to couch=>Lie on couch=>Read novel
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find television=>Turn to television=>Watch television
+Walk to home office=>Walk to curtain=>Open curtain=>Walk to curtain=>Open curtain
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Open dishwasher=>Find coffee cup=>Grab coffee cup=>Put coffee cup on dishwasher=>Find coffee cup=>Grab coffee cup=>Put coffee cup on dishwasher=>Find pot=>Grab pot=>Put pot on dishwasher=>Find pot=>Grab pot=>Put pot on dishwasher=>Find fork=>Grab fork=>Put fork on dishwasher=>Find fork=>Grab fork=>Put fork on dishwasher=>Find knife=>Grab knife=>Put knife on dishwasher=>Find knife=>Grab knife=>Put knife on dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Find spoon=>Grab spoon=>Put spoon on dishwasher=>Find spoon=>Grab spoon=>Put spoon on dishwasher=>Find water glass=>Grab water glass=>Put water glass on dishwasher=>Find water glass=>Grab water glass=>Put water glass on dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Find couch=>Walk to couch=>Sit on couch=>Read novel
+Walk to bathroom=>Walk to after shave=>Find after shave=>Grab after shave=>Find cupboard=>Open cupboard=>Put after shave on cupboard=>Find toothbrush=>Grab toothbrush=>Put toothbrush on cupboard=>Find brush=>Grab brush=>Put brush on cupboard
+Walk to home office=>Walk to clothes jacket=>Find clothes jacket=>Find clothes jacket=>Take off clothes jacket=>Grab clothes jacket=>Find hanger=>Put clothes jacket on hanger
+Walk to dining room=>Walk to sink=>Find sink=>Turn to sink=>Find plate=>Grab plate=>Put plate on sink=>Find dish soap=>Grab dish soap=>Squeeze dish soap=>Scrub plate=>Rinse plate=>Grab plate=>Find dishrack=>Put plate on dishrack
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard
+Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Find food food=>Grab food food=>Put food food in freezer=>Close freezer
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Find keyboard=>Type on keyboard=>Find mail=>Open mail=>Type on keyboard=>Close mail=>Switch off computer
+Walk to bedroom=>Walk to light=>Find light=>Turn to light=>Switch off light
+Wake up=>Stand up=>Walk to dining room=>Walk to light=>Turn to light
+Walk to home office=>Walk to television=>Find television=>Walk to couch=>Sit on couch=>Find remote control=>Grab remote control=>Turn to television=>Look at television=>Switch on television
+Walk to bedroom=>Walk to bed=>Find bed=>Lie on bed=>Sleep
+Find washing machine=>Open washing machine=>Find basket for clothes=>Grab basket for clothes=>Find clothes dress=>Grab clothes dress=>Put clothes dress on washing machine=>Find clothes pants=>Grab clothes pants=>Put clothes pants on washing machine=>Find clothes shirt=>Grab clothes shirt=>Put clothes shirt on washing machine=>Find clothes skirt=>Grab clothes skirt=>Put clothes skirt on washing machine=>Walk to detergent=>Find detergent=>Grab detergent=>Pour detergent into washing machine=>Close washing machine=>Switch on washing machine
+Run to home office=>Walk to novel=>Find novel=>Grab novel=>Run to chair=>Sit on chair=>Find bookmark=>Grab bookmark=>Drop bookmark=>Turn to novel=>Look at novel=>Read novel=>Read novel=>Read novel
+Walk to home office=>Walk to table=>Find table=>Find phone=>Grab phone
+Run to home office=>Run to table=>Find phone=>Grab phone=>Walk to couch=>Sit on couch=>Touch phone
+Walk to home office=>Walk to shoes=>Find shoes=>Find shoes=>Take off shoes=>Grab shoes=>Walk to bedroom=>Walk to dresser=>Find dresser=>Open dresser=>Put shoes in dresser=>Close dresser
+Walk to dining room=>Walk to phone=>Find phone=>Grab phone
+Walk to dining room=>Walk to coffee pot=>Find coffee filter=>Grab coffee filter=>Open coffee pot=>Drop coffee filter=>Find ground coffee=>Grab ground coffee=>Drop ground coffee=>Walk to water=>Find water=>Grab water=>Pour water into coffee pot=>Find coffee cup=>Grab coffee cup=>Walk to coffee=>Find coffee=>Grab coffee=>Pour coffee into coffee cup
+Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Find food food=>Grab food food=>Put food food in freezer=>Close freezer
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Switch on television
+Walk to dining room=>Walk to food food=>Find food food=>Grab food food=>Walk to dining room=>Walk to table=>Find table=>Put food food on table=>Find chair=>Sit on chair=>Find fork=>Grab fork=>Find knife=>Grab knife=>Find plate=>Eat plate
+Walk to home office=>Walk to phone=>Find phone
+Walk to dining room=>Walk to sink=>Find faucet=>Switch on faucet=>Find dish soap=>Grab dish soap=>Find drinking glass=>Wash drinking glass=>Find coffee cup=>Wash coffee cup=>Find plate=>Wash plate=>Grab coffee cup=>Put coffee cup on plate=>Find dishwasher=>Open dishwasher=>Grab drinking glass=>Put drinking glass on dishwasher=>Grab plate=>Put plate on dishwasher=>Find detergent=>Grab detergent=>Put detergent on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to bathroom=>Walk to faucet=>Find faucet=>Switch on faucet=>Find hands both=>Rinse hands both=>Find soap=>Grab soap=>Scrub soap=>Put back soap=>Scrub hands both=>Rinse hands both=>Switch off faucet=>Find towel=>Grab towel=>Wipe hands both=>Put back towel
+Walk to dining room=>Walk to water glass=>Find water glass=>Grab water glass=>Find freezer=>Open freezer=>Find juice=>Grab juice=>Pour juice into water glass=>Drink juice
+Walk to home office=>Walk to phone=>Find phone=>Grab phone
+Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Find food chicken=>Grab food chicken=>Close freezer=>Walk to table=>Put food chicken on table=>Find kitchen cabinet=>Open kitchen cabinet=>Find pot=>Grab pot=>Put pot on table=>Find oven=>Plug in oven=>Open oven=>Grab food chicken=>Put food chicken in oven
+Walk to bathroom=>Walk to bathroom cabinet=>Open bathroom cabinet=>Find paper towel=>Grab paper towel=>Close bathroom cabinet=>Walk to mirror=>Find cleaning solution=>Rinse cleaning solution=>Wipe mirror
+Walk to dining room=>Walk to kitchen cabinet=>Find kitchen cabinet=>Turn to kitchen cabinet=>Look at kitchen cabinet=>Find drinking glass=>Grab drinking glass=>Find faucet=>Switch on faucet=>Find water=>Find sink=>Put drinking glass on sink=>Grab drinking glass=>Switch off faucet=>Drink drinking glass
+Walk to home office=>Walk to floor lamp=>Find floor lamp=>Switch on floor lamp=>Find novel=>Grab novel=>Find couch=>Sit on couch=>Read novel=>Find bookmark=>Grab bookmark=>Put bookmark on novel=>Put back novel=>Switch off floor lamp
+Find phone=>Grab phone
+Walk to home office=>Walk to desk=>Find desk=>Turn to desk=>Find computer=>Turn to computer=>Look at computer=>Switch on computer=>Find keyboard=>Grab keyboard=>Find mouse=>Grab mouse
+Walk to dining room=>Walk to cupboard=>Find cupboard=>Open cupboard=>Find drinking glass=>Grab drinking glass=>Walk to sink=>Find faucet=>Switch on faucet=>Put drinking glass on sink=>Grab drinking glass=>Drink drinking glass
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Sleep
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find newspaper=>Grab newspaper=>Read newspaper
+Walk to home office=>Walk to table=>Find table=>Find novel=>Grab novel=>Find chair=>Sit on chair=>Read novel=>Put back novel
+Walk to dining room=>Walk to coffee maker=>Find coffee maker=>Open coffee maker=>Find coffee filter=>Grab coffee filter=>Put coffee filter on coffee maker=>Find coffee=>Grab coffee=>Put coffee on coffee maker
+Walk to home office=>Walk to wall clock=>Find wall clock=>Turn to wall clock=>Look at wall clock=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Put back remote control=>Turn to television=>Watch television
+Find phone=>Grab phone
+Walk to home office=>Walk to paper towel=>Find paper towel=>Grab paper towel=>Walk to floor lamp=>Switch off floor lamp=>Wipe floor lamp=>Find trashcan=>Put paper towel on trashcan
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Turn to television=>Watch television
+Walk to home office=>Walk to button=>Find button=>Push button=>Find chair=>Sit on chair=>Find computer=>Turn to computer=>Look at computer
+Walk to home office=>Walk to cat=>Find cat=>Touch cat
+Walk to home office=>Walk to cat=>Find cat=>Touch cat
+Walk to dining room=>Walk to water=>Find water=>Grab water=>Find coffee pot=>Pour water into coffee pot=>Find ground coffee=>Grab ground coffee=>Drop ground coffee=>Find coffee pot=>Turn to coffee pot
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Turn to dishwasher=>Find dish soap=>Grab dish soap=>Open dishwasher=>Put dish soap on dishwasher=>Find drinking glass=>Grab drinking glass=>Put drinking glass on dishwasher=>Find fork=>Grab fork=>Put fork on dishwasher=>Find knife=>Grab knife=>Put knife on dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to home office=>Walk to floor lamp=>Switch on floor lamp
+Walk to home office=>Walk to woman=>Find woman=>Greet woman=>Find woman=>Greet woman=>Find man=>Greet man=>Find man=>Greet man
+Walk to bathroom=>Walk to cleaning solution=>Find cleaning solution=>Grab cleaning solution=>Find rag=>Grab rag=>Pour cleaning solution into rag=>Put back cleaning solution=>Walk to mirror=>Wipe mirror=>Wipe mirror=>Wipe mirror=>Put back rag
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Turn to remote control=>Look at remote control=>Find television=>Turn to television=>Point at television=>Watch television
+Find cat=>Turn to cat=>Point at cat=>Turn to cat=>Look at cat=>Push cat=>Run to bedroom
+Walk to bedroom=>Walk to remote control=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Put back remote control=>Find bed=>Sit on bed=>Turn to television=>Watch television
+Walk to home office=>Walk to desk=>Find folder=>Grab folder=>Open folder=>Find check=>Grab check=>Put check in folder=>Find check=>Grab check=>Put check in folder=>Close folder=>Find filing cabinet=>Open filing cabinet=>Put folder in filing cabinet
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Find dish soap=>Grab dish soap=>Open dishwasher=>Put dish soap on dishwasher=>Wash dishwasher
+Walk to dining room=>Walk to bowl=>Find bowl=>Grab bowl=>Walk to water=>Find water=>Grab water=>Pour water into bowl=>Find sink=>Put bowl on sink=>Find cup=>Grab cup=>Find dish soap=>Grab dish soap=>Scrub cup=>Put back dish soap=>Wash cup
+Walk to home office=>Walk to chair=>Find chair=>Pull chair=>Find computer=>Switch on computer
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find laptop=>Switch on laptop=>Find keyboard=>Type on keyboard=>Turn to laptop=>Look at laptop=>Find mail=>Grab mail=>Read mail
+Walk to bathroom=>Walk to faucet=>Find faucet=>Turn to faucet=>Find water=>Grab water=>Find hands both=>Pour water into hands both
+Walk to home office=>Walk to laptop=>Find laptop=>Grab laptop=>Find couch=>Sit on couch=>Switch on laptop=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to filing cabinet=>Find remote control=>Grab remote control=>Find light=>Switch on light
+Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Walk to table=>Find chair=>Sit on chair=>Put novel on table=>Find bookmark=>Grab novel=>Read novel
+Walk to bedroom=>Walk to clothes pants=>Find clothes pants=>Grab clothes pants=>Turn to clothes pants=>Look at clothes pants=>Walk to basket for clothes=>Put clothes pants on basket for clothes=>Find clothes pants=>Grab clothes pants=>Turn to clothes pants=>Look at clothes pants=>Walk to basket for clothes=>Put clothes pants on basket for clothes=>Find clothes shirt=>Grab clothes shirt=>Turn to clothes shirt=>Look at clothes shirt=>Walk to basket for clothes=>Put clothes shirt on basket for clothes=>Find clothes shirt=>Grab clothes shirt=>Turn to clothes shirt=>Look at clothes shirt=>Walk to basket for clothes=>Put clothes shirt on basket for clothes=>Find clothes shirt=>Grab clothes shirt=>Turn to clothes shirt=>Look at clothes shirt=>Walk to basket for clothes=>Put clothes shirt on basket for clothes
+Walk to bedroom=>Walk to dresser=>Find dresser=>Walk to dresser=>Open dresser=>Find clothes pants=>Grab clothes pants=>Put on clothes pants=>Find clothes shirt=>Grab clothes shirt=>Put on clothes shirt=>Close dresser
+Walk to dining room=>Walk to food food=>Find food food=>Grab food food=>Walk to dining room=>Walk to table=>Put food food on table=>Walk to dining room=>Walk to food food=>Find food food=>Grab food food=>Walk to dining room=>Walk to table=>Put food food on table=>Walk to chair=>Pull chair=>Sit on chair=>Turn to food food=>Look at food food=>Turn to food food=>Look at food food
+Walk to home office=>Walk to bookshelf=>Find novel=>Grab novel=>Walk to table=>Put novel on table
+Walk to bedroom=>Walk to floor lamp=>Find floor lamp=>Switch on floor lamp
+Walk to home office=>Walk to computer=>Find computer=>Find chair=>Sit on chair=>Turn to computer=>Look at computer=>Switch on computer=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find mail=>Open mail=>Find check=>Grab check=>Read check=>Find keyboard=>Turn to keyboard=>Look at keyboard=>Type on keyboard=>Turn to computer=>Look at computer
+Walk to dining room=>Walk to food bread=>Find food bread=>Grab food bread=>Find food turkey=>Grab food turkey=>Find plate=>Put food turkey on plate=>Find plate=>Eat plate
+Find food food=>Grab food food=>Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Put food food in freezer=>Close freezer
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Put back remote control=>Turn to television=>Watch television
+Walk to home office=>Walk to desk=>Find desk=>Find phone=>Plug out phone=>Grab phone=>Touch phone
+Walk to dining room=>Walk to food food=>Find food food=>Grab food food=>Find freezer=>Walk to freezer=>Open freezer=>Put food food in freezer
+Walk to dining room=>Walk to washing machine=>Find washing machine=>Open washing machine=>Walk to laundry detergent=>Find laundry detergent=>Grab laundry detergent=>Pour laundry detergent into washing machine=>Find basket for clothes=>Grab basket for clothes=>Put basket for clothes on washing machine
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Lie on couch
+Walk to home office=>Walk to cat=>Find cat=>Touch cat
+Walk to home office=>Walk to bills=>Find bills=>Grab bills=>Walk to filing cabinet=>Open filing cabinet=>Put bills in filing cabinet=>Find check=>Grab check=>Walk to filing cabinet=>Put check in filing cabinet=>Find check=>Grab check=>Walk to filing cabinet=>Put check in filing cabinet
+Stand up=>Walk to dining room=>Walk to light=>Find light=>Walk to light=>Switch on light
+Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Find food food=>Grab food food=>Put food food in freezer=>Close freezer
+Walk to home office=>Walk to shoes=>Find shoes=>Grab shoes=>Find dresser=>Open dresser=>Put shoes in dresser=>Close dresser
+Walk to home office=>Walk to television=>Find television=>Switch on television=>Find chair=>Sit on chair=>Find remote control=>Grab remote control=>Turn to television=>Watch television=>Switch off remote control=>Plug out television
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Walk to chair=>Sit on chair=>Find television=>Turn to television=>Look at television=>Touch remote control=>Switch on television=>Sleep
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard
+Walk to bedroom=>Walk to phone=>Find phone=>Grab phone=>Turn to phone=>Look at phone=>Find button=>Push button
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch
+Walk to dining room=>Walk to freezer=>Find freezer=>Turn to freezer=>Walk to freezer=>Open freezer=>Turn to freezer=>Look at freezer=>Find kitchen cabinet=>Open kitchen cabinet=>Find food food=>Close kitchen cabinet=>Close freezer
+Run to dining room=>Walk to cup=>Find cup=>Grab cup=>Walk to sink=>Find faucet=>Switch on faucet=>Put cup on sink=>Find water=>Grab cup=>Put cup on sink=>Grab cup=>Switch off faucet=>Drink cup=>Put cup on sink
+Walk to dining room=>Walk to cupboard=>Find cupboard=>Open cupboard=>Find water glass=>Grab water glass=>Walk to faucet=>Switch on faucet=>Find water=>Find sink=>Put water glass on sink=>Grab water glass=>Switch off faucet=>Drink water glass=>Find kitchen counter=>Put water glass on kitchen counter
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer
+Walk to home office=>Walk to desk=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Find check=>Find homework=>Turn to homework=>Look at homework
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Find mouse=>Grab mouse=>Find keyboard=>Grab keyboard
+Find television=>Switch on television=>Find remote control=>Grab remote control=>Find button=>Push button=>Put back remote control
+Walk to dining room=>Walk to coffee maker=>Find coffee maker=>Open coffee maker=>Find coffee filter=>Grab coffee filter=>Put coffee filter on coffee maker=>Find ground coffee=>Grab ground coffee=>Put ground coffee on coffee maker=>Walk to water=>Find water=>Grab water=>Pour water into coffee maker=>Close coffee maker=>Plug in coffee maker=>Switch on coffee maker
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find television=>Switch on television
+Walk to dining room=>Walk to faucet=>Find faucet=>Switch on faucet=>Find sponge=>Grab sponge=>Rinse sponge=>Find dish soap=>Grab dish soap=>Pour dish soap into sponge=>Put back dish soap=>Find plate=>Grab plate=>Wash plate=>Rinse plate=>Find drying rack=>Put plate on plate=>Rinse sponge=>Put back sponge=>Switch off faucet
+Find novel=>Grab novel=>Find chair=>Sit on chair=>Read novel
+Walk to home office=>Walk to cat=>Find cat=>Turn to cat=>Look at cat=>Touch cat
+Walk to dining room=>Walk to sink=>Find sink=>Find plate=>Grab plate=>Find dish soap=>Grab dish soap=>Put dish soap on plate=>Find faucet=>Switch on faucet=>Rinse plate
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Switch on television
+Walk to home office=>Walk to computer=>Find computer=>Switch on computer=>Find chair=>Sit on chair=>Turn to computer=>Look at computer=>Find check=>Grab check=>Read check=>Find keyboard=>Type on keyboard=>Stand up=>Find fax machine=>Switch on fax machine=>Find printing paper=>Grab printing paper=>Put printing paper on fax machine
+Walk to home office=>Walk to window=>Find window=>Turn to window=>Look at window
+Walk to dining room=>Walk to table=>Find plate=>Grab plate=>Walk to dishwasher=>Open dishwasher=>Put plate on dishwasher=>Walk to table=>Find pot=>Grab pot=>Walk to dishwasher=>Put pot on dishwasher=>Close dishwasher=>Find dish soap=>Grab dish soap=>Open dishwasher=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to couch=>Sit on couch=>Sleep
+Walk to home office=>Walk to filing cabinet=>Open filing cabinet=>Find novel=>Grab novel=>Close filing cabinet=>Walk to couch=>Sit on couch=>Read novel
+Find remote control=>Grab remote control=>Find television=>Turn to television=>Point at television=>Switch on television
+Walk to home office=>Walk to light=>Find light=>Switch on light
+Find mail=>Grab mail=>Walk to table=>Drop mail
+Walk to bathroom=>Walk to washing machine=>Find washing machine=>Open washing machine=>Find clothes pants=>Grab clothes pants=>Put clothes pants on washing machine=>Close washing machine=>Find laundry detergent=>Grab laundry detergent=>Open washing machine=>Put laundry detergent on washing machine=>Close washing machine=>Switch on washing machine
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer
+Walk to dining room=>Walk to rag=>Find rag=>Grab rag=>Find cleaning solution=>Grab cleaning solution=>Find cleaning solution=>Walk to sink=>Pour cleaning solution into sink=>Put back cleaning solution=>Wipe sink=>Find faucet=>Switch on faucet=>Rinse sink=>Rinse rag=>Switch off faucet=>Put back rag
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Open dishwasher=>Find sink=>Find bowl=>Grab bowl=>Rinse bowl=>Put bowl on dishwasher=>Find cup=>Grab cup=>Rinse cup=>Put cup on dishwasher=>Find fork=>Grab fork=>Rinse fork=>Put fork on dishwasher=>Find knife=>Grab knife=>Rinse knife=>Put knife on dishwasher=>Find plate=>Grab plate=>Rinse plate=>Put plate on dishwasher=>Find spoon=>Grab spoon=>Rinse spoon=>Put spoon on dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Close dishwasher=>Turn to dishwasher
+Walk to home office=>Walk to desk=>Find desk=>Find novel=>Grab novel=>Walk to chair=>Sit on chair=>Read novel
+Walk to freezer=>Open freezer=>Find food bread=>Grab food bread=>Turn to food bread=>Look at food bread=>Put back food bread=>Find food cheese=>Grab food cheese=>Turn to food cheese=>Look at food cheese=>Find garbage can=>Put food cheese on garbage can=>Find food cheese=>Grab food cheese=>Turn to food cheese=>Look at food cheese=>Put back food cheese=>Find food dessert=>Turn to food dessert=>Look at food dessert=>Push food dessert=>Find food vegetable=>Grab food vegetable=>Turn to food vegetable=>Look at food vegetable=>Put food vegetable on garbage can=>Find milk=>Grab milk=>Turn to milk=>Look at milk=>Put back milk=>Close freezer
+Walk to home office=>Walk to window=>Open window
+Walk to dining room=>Walk to light=>Find light=>Switch on light=>Find light=>Switch on light
+Walk to bathroom=>Walk to toilet=>Find toilet=>Sit on toilet
+Walk to home office=>Walk to shoes=>Find shoes=>Find shoes=>Take off shoes=>Walk to home office=>Walk to couch=>Find couch=>Sit on couch
+Walk to bedroom=>Walk to pillow=>Find pillow=>Grab pillow=>Find bed=>Put pillow on bed=>Lie on bed=>Sleep
+Walk to home office=>Walk to cat=>Find cat=>Walk to cat=>Touch cat
+Find food food=>Grab food food=>Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Put food food in freezer=>Close freezer
+Walk to bathroom=>Walk to sink=>Find faucet=>Switch on faucet=>Find soap=>Grab soap=>Find hands both=>Scrub hands both=>Put back soap=>Rinse hands both=>Switch off faucet
+Find food food=>Grab food food=>Walk to dining room=>Walk to freezer=>Find freezer=>Turn to freezer=>Look at freezer=>Open freezer=>Put food food in freezer=>Close freezer
+Find plate=>Grab plate=>Find table=>Put plate on table=>Walk to bathroom=>Walk to sink=>Find soap=>Grab soap=>Find hands both=>Scrub hands both=>Rinse hands both
+Walk to home office=>Walk to television=>Plug in television=>Switch on television=>Find video game console=>Plug in video game console=>Switch on video game console=>Find video game console=>Find video game controller=>Grab video game controller=>Walk to couch=>Sit on couch
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find television=>Turn to television=>Look at television=>Turn to television=>Point at television=>Find button=>Push button=>Put back remote control
+Walk to dining room=>Walk to washing machine=>Find washing machine=>Find basket for clothes=>Open basket for clothes=>Find soap=>Grab soap=>Open washing machine=>Put soap on washing machine=>Close washing machine=>Switch on washing machine
+Walk to home office=>Walk to phone=>Find phone=>Grab phone
+Find spoon=>Turn to spoon=>Point at spoon=>Wash spoon=>Turn to spoon=>Look at spoon=>Grab spoon=>Walk to dining room
+Walk to dining room=>Walk to filing cabinet=>Open filing cabinet=>Find rag=>Grab rag=>Find cleaning solution=>Grab cleaning solution=>Pour cleaning solution into rag=>Put back cleaning solution=>Wipe filing cabinet=>Walk to table=>Wipe table=>Walk to chair=>Wipe chair=>Put back rag=>Close filing cabinet
+Walk to dining room=>Walk to table=>Find food food=>Grab food food=>Put food food on table=>Find food food=>Grab food food=>Put food food on table=>Find food food=>Grab food food=>Walk to freezer=>Open freezer=>Put food food in freezer=>Close freezer=>Walk to table=>Find food food=>Grab food food=>Walk to freezer=>Open freezer=>Put food food in freezer=>Close freezer=>Walk to table=>Turn to table=>Look at table
+Walk to bathroom=>Walk to paper towel=>Find paper towel=>Turn to paper towel=>Look at paper towel=>Grab paper towel=>Find hands both=>Wipe hands both
+Walk to home office=>Walk to desk=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find check=>Grab check=>Read check=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Find keyboard=>Type on keyboard
+Find television=>Walk to television=>Switch on television=>Find chair=>Walk to chair=>Sit on chair=>Turn to television=>Watch television
+Walk to home office=>Walk to computer=>Find cloth napkin=>Grab cloth napkin=>Wipe computer
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to shoes=>Find shoes=>Find shoes=>Take off shoes
+Walk to dining room=>Walk to sink=>Find faucet=>Switch on faucet=>Find dish soap=>Grab dish soap=>Pour dish soap into sink=>Put back dish soap=>Find sponge=>Grab sponge=>Find bowl=>Grab bowl=>Scrub bowl=>Rinse bowl=>Find dishrack=>Put bowl on dishrack=>Find bowl=>Grab bowl=>Scrub bowl=>Rinse bowl=>Put bowl on dishrack=>Rinse sponge=>Switch off faucet=>Put back sponge
+Find table=>Turn to table=>Point at table=>Wash table=>Turn to table=>Look at table=>Touch table
+Walk to dining room=>Walk to table=>Find chair=>Pull chair=>Find cloth napkin=>Grab cloth napkin=>Put cloth napkin on table=>Find plate=>Grab plate=>Put plate on table=>Find knife=>Grab knife=>Put knife on table=>Find fork=>Grab fork=>Put fork on table=>Find cup=>Grab cup=>Put cup on table
+Walk to dining room=>Walk to kitchen cabinet=>Find kitchen cabinet=>Open kitchen cabinet=>Find drinking glass=>Grab drinking glass=>Walk to sink=>Find faucet=>Switch on faucet=>Put drinking glass on sink=>Find water=>Grab drinking glass=>Put drinking glass on sink=>Grab drinking glass=>Drink drinking glass
+Walk to home office=>Walk to shoes=>Find shoes=>Grab shoes=>Find dresser=>Open dresser=>Put shoes in dresser=>Close dresser
+Find phone=>Walk to home office=>Walk to phone=>Grab phone
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard
+Walk to bedroom=>Walk to dresser=>Find dresser=>Open dresser=>Find pajamas=>Grab pajamas=>Close dresser=>Find bed=>Lie on bed=>Sleep
+Walk to home office=>Walk to light=>Find light=>Switch on light=>Walk to bedroom=>Walk to light=>Find light=>Switch on light
+Walk to dining room=>Walk to coffee maker=>Find coffee=>Grab coffee=>Open coffee maker=>Pour coffee into coffee maker=>Find coffee cup=>Grab coffee cup=>Put coffee cup on coffee maker=>Find button=>Push button=>Grab coffee cup
+Walk to dining room=>Walk to food food=>Find food food=>Grab food food=>Find table=>Put food food on table
+Find remote control=>Grab remote control=>Find television=>Switch on television=>Turn to television=>Look at television
+Walk to food food=>Grab food food=>Find freezer=>Open freezer=>Put food food in freezer=>Close freezer
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Walk to chair=>Sit on chair=>Find television=>Turn to television=>Look at television=>Touch remote control=>Switch on television=>Sleep
+Walk to chair=>Sit on chair=>Find laptop=>Switch on laptop=>Turn to laptop=>Look at laptop=>Find mail=>Grab mail=>Read mail=>Find keyboard=>Type on keyboard=>Switch off laptop
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find light=>Switch off light=>Find love seat=>Sit on love seat=>Find television=>Switch on television=>Turn to television=>Watch television
+Walk to dining room=>Walk to coffee pot=>Find coffee pot=>Grab coffee pot=>Walk to water=>Find water=>Grab water=>Pour water into coffee pot=>Find ground coffee=>Grab ground coffee=>Put ground coffee on coffee pot=>Grab ground coffee=>Put back ground coffee=>Walk to oven=>Put coffee pot on oven=>Switch on oven
+Walk to dining room=>Walk to kitchen cabinet=>Find kitchen cabinet=>Open kitchen cabinet=>Find knife=>Grab knife=>Find plate=>Grab plate=>Close kitchen cabinet=>Find table=>Put plate on table=>Put knife on table=>Find freezer=>Open freezer=>Find food bread=>Grab food bread=>Close freezer=>Put food bread on plate=>Grab knife=>Cut food bread=>Put back knife
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Open dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to dining room=>Walk to food food=>Find food food=>Grab food food=>Find freezer=>Open freezer=>Put food food in freezer
+Walk to bedroom=>Walk to novel=>Grab novel=>Read novel
+Walk to dining room=>Walk to sink=>Find faucet=>Switch on faucet=>Find bowl=>Grab bowl=>Rinse bowl=>Switch off faucet=>Walk to dishwasher=>Open dishwasher=>Put bowl on dishwasher=>Walk to sink=>Find faucet=>Switch on faucet=>Find bowl=>Grab bowl=>Rinse bowl=>Switch off faucet=>Walk to dishwasher=>Put bowl on dishwasher=>Walk to sink=>Find faucet=>Switch on faucet=>Find plate=>Grab plate=>Rinse plate=>Switch off faucet=>Walk to dishwasher=>Put plate on dishwasher=>Close dishwasher
+Find clothes pants=>Grab clothes pants=>Walk to dining room=>Walk to washing machine=>Find washing machine=>Open washing machine=>Put clothes pants on washing machine=>Close washing machine=>Switch on washing machine
+Walk to dining room=>Walk to kitchen cabinet=>Find kitchen cabinet=>Open kitchen cabinet=>Find water=>Grab water=>Find water glass=>Pour water into water glass=>Close kitchen cabinet=>Grab water glass=>Drink water glass
+Find phone=>Grab phone=>Touch phone
+Walk to dining room=>Walk to dry pasta=>Find dry pasta=>Grab dry pasta=>Find sauce pan=>Put dry pasta on sauce pan=>Find sauce pan=>Grab sauce pan=>Find oven=>Put sauce pan on oven
+Walk to dining room=>Walk to cupboard=>Find cupboard=>Open cupboard=>Find water glass=>Grab water glass=>Walk to freezer=>Open freezer=>Walk to water=>Find water=>Grab water=>Pour water into water glass=>Drink water glass
+Walk to home office=>Walk to laptop=>Find laptop=>Grab laptop=>Find couch=>Sit on couch=>Switch on laptop=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to couch=>Find couch=>Walk to couch=>Sit on couch=>Find man=>Greet man
+Walk to dining room=>Walk to rag=>Find rag=>Grab rag=>Walk to sink=>Find faucet=>Switch on faucet=>Put rag on sink=>Switch off faucet=>Grab rag=>Squeeze rag=>Walk to kitchen counter=>Wipe kitchen counter=>Put back rag
+Walk to home office=>Walk to phone=>Find phone=>Grab phone
+Walk to home office
+Walk to home office=>Walk to light=>Find light=>Switch on light=>Find phone=>Grab phone=>Walk to couch=>Sit on couch=>Lie on couch=>Type on phone
+Find computer=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to light=>Find light=>Switch on light=>Walk to desk=>Find computer=>Switch on computer=>Find check=>Turn to check=>Look at check=>Switch off computer
+Walk to dining room=>Walk to drinking glass=>Find drinking glass=>Grab drinking glass=>Find faucet=>Turn to faucet=>Find water=>Drink drinking glass
+Find chair=>Sit on chair=>Find computer=>Switch on computer=>Find keyboard=>Grab keyboard=>Find desk=>Open desk=>Put keyboard on desk=>Find console=>Switch on console=>Plug in keyboard
+Walk to dining room=>Walk to table=>Find water glass=>Grab water glass=>Drink water glass=>Put water glass on table
+Walk to home office=>Walk to remote control=>Find remote control=>Walk to remote control=>Grab remote control=>Find couch=>Walk to couch=>Lie on couch=>Find television=>Switch on television=>Drop remote control
+Walk to dining room=>Walk to table=>Walk to chair=>Find table cloth=>Grab table cloth=>Put table cloth on table=>Find plate=>Grab plate=>Put plate on table=>Find napkin=>Grab napkin=>Put napkin on table=>Walk to chair=>Find table cloth=>Grab table cloth=>Put table cloth on table=>Find plate=>Grab plate=>Put plate on table=>Find napkin=>Grab napkin=>Put napkin on table
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Walk to couch=>Sit on couch=>Find television=>Switch on television=>Put remote control on couch=>Turn to television=>Watch television
+Find couch=>Sit on couch=>Find novel=>Grab novel=>Read novel
+Walk to bedroom=>Walk to shoes=>Find shoes=>Find shoes=>Find clothes dress=>Take off shoes=>Find clothes dress=>Take off clothes dress=>Grab clothes dress=>Find basket for clothes=>Put clothes dress on basket for clothes=>Find dresser=>Open dresser=>Find pajamas=>Grab pajamas=>Close dresser=>Put on pajamas=>Walk to desk=>Find novel=>Grab novel=>Walk to bed=>Lie on bed=>Read novel
+Walk to home office=>Walk to phone=>Grab phone
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Find mouse=>Grab mouse=>Turn to computer=>Look at computer
+Find cleaning bottle=>Turn to cleaning bottle=>Point at cleaning bottle=>Wash cleaning bottle=>Turn to cleaning bottle=>Look at cleaning bottle
+Walk to bathroom=>Walk to bathroom cabinet=>Find bathroom cabinet=>Open bathroom cabinet=>Find paper towel=>Grab paper towel=>Close bathroom cabinet=>Walk to mirror=>Wipe mirror=>Find trashcan=>Put paper towel on trashcan
+Find freezer=>Open freezer=>Find food food=>Grab food food=>Put food food in freezer=>Close freezer
+Walk to home office=>Walk to light=>Switch on light
+Walk to bedroom=>Walk to light=>Find light=>Switch on light=>Walk to dresser=>Find remote control=>Grab remote control=>Walk to bed=>Sit on bed=>Find television=>Switch on television=>Turn to television=>Watch television
+Walk to dining room=>Walk to faucet=>Find faucet=>Switch on faucet=>Find dish soap=>Grab dish soap=>Find plate=>Grab plate=>Wash plate
+Walk to home office=>Walk to chair=>Find chair=>Find desk=>Sit on chair=>Find computer=>Switch on computer
+Walk to home office=>Walk to phone=>Find phone=>Grab phone
+Walk to bathroom=>Walk to faucet=>Find faucet=>Switch on faucet=>Find hands both=>Rinse hands both=>Find soap=>Grab soap=>Scrub hands both=>Put back soap=>Rinse hands both=>Switch off faucet=>Find towel=>Grab towel=>Wipe hands both=>Put back towel
+Walk to home office=>Walk to desk=>Find novel=>Grab novel=>Find chair=>Sit on chair=>Find light=>Switch on light=>Read novel
+Find table=>Pull table=>Walk to dining room
+Walk to dining room=>Walk to dishwasher=>Open dishwasher=>Close dishwasher
+Walk to dining room=>Walk to food food=>Find food food=>Grab food food=>Walk to freezer=>Open freezer=>Put food food in freezer=>Close freezer
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find couch=>Sit on couch=>Find television=>Switch on television=>Turn to television=>Watch television
+Walk to home office=>Walk to television=>Switch on television=>Find remote control=>Find button=>Push button
+Walk to dining room=>Walk to sink=>Find soap=>Grab soap=>Find hands both=>Wash hands both=>Find towel=>Grab towel=>Wipe hands both
+Walk to dining room=>Walk to water glass=>Find water glass=>Grab water glass=>Find faucet=>Switch on faucet=>Find water=>Find sink=>Put water glass on sink=>Grab water glass=>Switch off faucet=>Drink water glass
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find button=>Push button
+Walk to home office=>Walk to couch=>Find couch=>Lie on couch
+Find faucet=>Switch on faucet=>Find dish soap=>Grab dish soap=>Squeeze dish soap=>Put back dish soap=>Find bowl=>Grab bowl=>Wash bowl=>Rinse bowl=>Find towel=>Grab towel=>Wipe bowl=>Put back towel=>Find cupboard=>Open cupboard=>Put bowl on cupboard=>Close cupboard
+Walk to dining room=>Walk to water=>Find water=>Grab water=>Find drinking glass=>Pour water into drinking glass=>Find drinking glass=>Grab drinking glass=>Drink drinking glass
+Walk to bathroom=>Walk to shampoo=>Find shampoo=>Grab shampoo=>Find faucet=>Switch on faucet=>Walk to sink=>Find hands both=>Pour shampoo into hands both=>Put back shampoo=>Find hair=>Wash hair=>Switch off faucet
+Walk to home office=>Walk to television=>Find television=>Switch on television=>Find couch=>Sit on couch=>Turn to television=>Watch television=>Sleep
+Find cat=>Touch cat
+Walk to bedroom=>Walk to desk=>Find novel=>Grab novel=>Find novel=>Grab novel=>Walk to bookshelf=>Put novel on bookshelf=>Put novel on bookshelf
+Walk to bedroom=>Walk to dresser=>Open dresser=>Find clothes dress=>Grab clothes dress=>Walk to bed=>Put clothes dress on bed=>Walk to dresser=>Find clothes dress=>Grab clothes dress=>Walk to bed=>Put clothes dress on bed=>Walk to dresser=>Find clothes dress=>Grab clothes dress=>Walk to bed=>Put clothes dress on bed=>Close dresser
+Walk to bedroom=>Walk to remote control=>Find remote control=>Grab remote control=>Walk to bed=>Lie on bed=>Find television=>Switch on television=>Turn to television=>Watch television
+Find computer=>Turn to computer=>Find keyboard=>Type on keyboard=>Turn to computer=>Look at computer
+Walk to home office=>Walk to filing cabinet=>Find filing cabinet=>Open filing cabinet=>Find check=>Grab check=>Close filing cabinet=>Find electrical outlet=>Find shredder=>Plug in shredder=>Switch on shredder=>Put check on shredder
+Walk to bedroom=>Walk to child=>Find child=>Greet child=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Find bed=>Sit on bed=>Turn to television=>Watch television
+Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Read novel=>Put back novel
+Walk to home office=>Walk to desk=>Find desk=>Turn to desk=>Look at desk=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Watch computer=>Switch off computer
+Find sink=>Turn to sink=>Look at sink=>Find plate=>Grab plate=>Scrub plate=>Rinse plate=>Find dishrack=>Turn to dishrack=>Look at dishrack=>Drop plate
+Walk to bathroom=>Walk to toilet=>Find toilet
+Walk to home office=>Walk to phone=>Find phone=>Grab phone
+Walk to home office=>Walk to washing machine=>Find washing machine=>Open washing machine=>Find clothes underwear=>Grab clothes underwear=>Put clothes underwear on washing machine=>Find soap=>Grab soap=>Put soap on washing machine=>Close washing machine=>Switch on washing machine
+Walk to home office=>Walk to phone=>Find phone=>Grab phone=>Walk to couch=>Sit on couch=>Turn to phone=>Look at phone=>Touch phone
+Walk to bedroom=>Walk to bed=>Find bed=>Lie on bed=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Turn to television=>Watch television
+Walk to dining room=>Walk to coffee pot=>Find coffee filter=>Grab coffee filter=>Open coffee pot=>Drop coffee filter=>Find ground coffee=>Grab ground coffee=>Drop ground coffee=>Walk to water=>Find water=>Grab water=>Pour water into coffee pot=>Find coffee cup=>Grab coffee cup=>Walk to coffee=>Find coffee=>Grab coffee=>Pour coffee into coffee cup
+Find bed=>Turn to bed=>Point at bed=>Wash bed=>Sit on bed
+Walk to home office=>Walk to light=>Find light=>Switch off light=>Find couch=>Sit on couch=>Lie on couch
+Walk to home office=>Walk to computer=>Find chair=>Sit on chair=>Switch on computer
+Walk to home office=>Walk to cat=>Find cat=>Walk to cat=>Turn to cat=>Look at cat=>Touch cat=>Touch cat=>Touch cat
+Walk to home office=>Walk to desk=>Find chair=>Sit on chair=>Find laptop=>Plug in laptop=>Switch on laptop=>Find fax machine=>Switch on fax machine=>Find check=>Grab check=>Open desk=>Put check on desk=>Find check=>Grab check=>Put check on desk=>Find check=>Grab check=>Put check on desk
+Walk to home office=>Walk to desk=>Find novel=>Grab novel=>Walk to chair=>Sit on chair=>Read novel
+Walk to home office=>Walk to television=>Find television=>Find remote control=>Turn to remote control=>Switch on remote control
+Walk to home office=>Walk to computer=>Find computer=>Turn to computer=>Look at computer=>Find chair=>Sit on chair=>Switch on computer=>Find keyboard=>Type on keyboard=>Switch off computer
+Walk to dining room=>Walk to oven=>Find oven=>Find pot=>Find food vegetable=>Find water=>Grab water=>Wash food vegetable=>Pour water into pot=>Find pot=>Grab pot=>Put pot on oven=>Switch on oven
+Find shampoo=>Grab shampoo=>Squeeze shampoo=>Find hair=>Wash hair=>Find face soap=>Grab face soap=>Find face=>Pour face soap into face=>Find face=>Wash face=>Wipe face=>Put back face soap
+Walk to bedroom=>Walk to basket for clothes=>Grab basket for clothes=>Walk to home office=>Walk to washing machine=>Open washing machine=>Put basket for clothes on washing machine=>Find laundry detergent=>Grab laundry detergent=>Put laundry detergent on washing machine=>Run to washing machine
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find mail=>Grab mail=>Read mail
+Walk to bathroom=>Walk to washing machine=>Find washing machine=>Open washing machine=>Find clothes pants=>Grab clothes pants=>Put clothes pants on washing machine=>Walk to laundry detergent=>Find laundry detergent=>Grab laundry detergent=>Pour laundry detergent into washing machine=>Close washing machine=>Plug in washing machine
+Walk to home office=>Walk to light=>Find light=>Switch on light=>Walk to desk=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch
+Walk to dining room=>Walk to cupboard=>Find cupboard=>Open cupboard=>Find water glass=>Grab water glass=>Walk to water=>Find water=>Grab water=>Pour water into water glass=>Drink water glass
+Run to home office=>Walk to novel=>Find novel=>Grab novel=>Walk to chair=>Sit on chair=>Find bookmark=>Grab bookmark=>Find floor=>Put bookmark on floor=>Turn to novel=>Look at novel=>Read novel=>Turn to novel=>Look at novel=>Read novel
+Walk to dining room=>Walk to light=>Find light=>Switch on light=>Walk to home office=>Walk to light=>Find light=>Switch on light=>Walk to dining room=>Walk to light=>Find light=>Switch on light
+Find phone=>Grab phone
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find couch=>Sit on couch=>Find television=>Switch on television=>Turn to television=>Watch television
+Walk to home office=>Walk to floor lamp=>Find floor lamp=>Switch on floor lamp=>Find floor lamp=>Switch on floor lamp
+Walk to home office=>Walk to desk=>Find chair=>Pull chair=>Sit on chair=>Find computer=>Turn to computer=>Look at computer=>Switch on computer
+Walk to home office=>Walk to address book=>Find address book=>Grab address book=>Read address book
+Find sink=>Turn to sink=>Look at sink=>Turn to sink=>Walk to sink=>Find faucet=>Switch on faucet=>Find soap=>Turn to soap=>Look at soap=>Grab soap=>Find hands both=>Wash hands both=>Put back soap=>Find faucet=>Turn to faucet=>Look at faucet=>Find water=>Rinse hands both=>Turn to faucet=>Look at faucet=>Switch off faucet=>Find towel=>Turn to towel=>Look at towel=>Grab towel=>Wipe hands both=>Put back towel
+Walk to dining room=>Walk to kitchen cabinet=>Find kitchen cabinet=>Open kitchen cabinet=>Find cup=>Grab cup=>Find faucet=>Switch on faucet=>Walk to sink=>Find faucet=>Push faucet=>Put cup on sink=>Grab cup=>Switch off faucet=>Drink cup
+Walk to home office=>Walk to cat=>Find cat=>Touch cat
+Walk to dining room=>Walk to dish soap=>Find dish soap=>Grab dish soap=>Find plate=>Put dish soap on plate=>Find plate=>Grab plate=>Wash plate=>Rinse plate=>Find dishrack=>Put plate on dishrack
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Open dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to dining room=>Walk to water glass=>Find water glass=>Grab water glass=>Find freezer=>Open freezer=>Walk to water=>Find water=>Grab water=>Pour water into water glass=>Close freezer=>Drink water glass
+Walk to home office=>Walk to television=>Find television=>Switch on television=>Find couch=>Sit on couch=>Turn to television=>Watch television
+Walk to dining room=>Walk to freezer=>Find freezer=>Turn to freezer=>Walk to freezer=>Open freezer=>Turn to freezer=>Look at freezer=>Find kitchen cabinet=>Open kitchen cabinet=>Find food food=>Close kitchen cabinet=>Close freezer
+Walk to bathroom=>Walk to soap=>Find soap=>Grab soap=>Find towel=>Wipe towel
+Walk to dining room=>Walk to coffee maker=>Find coffee maker=>Plug in coffee maker=>Open coffee maker=>Find coffee filter=>Grab coffee filter=>Put coffee filter on coffee maker=>Find ground coffee=>Grab ground coffee=>Put ground coffee on coffee maker=>Close coffee maker=>Switch on coffee maker
+Find dresser=>Turn to dresser=>Point at dresser=>Wash dresser=>Turn to dresser=>Look at dresser=>Open dresser
+Find novel=>Grab novel=>Find chair=>Sit on chair=>Read novel
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Turn to television=>Watch television
+Walk to bathroom=>Walk to shower=>Find soap=>Scrub soap=>Find water=>Rinse water
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Walk to couch=>Sit on couch=>Find television=>Switch on television=>Put remote control on couch=>Turn to television=>Watch television
+Walk to bedroom=>Walk to bed=>Find bed=>Lie on bed=>Find novel=>Grab novel=>Read novel
+Find toilet=>Sit on toilet=>Find toilet paper=>Grab toilet paper=>Find dresser=>Wash dresser
+Walk to home office=>Walk to shoes=>Find shoes=>Find shoes=>Take off shoes
+Walk to home office=>Walk to shoes=>Find shoes=>Find shoes=>Take off shoes
+Walk to home office=>Walk to phone=>Find phone=>Grab phone=>Walk to couch=>Sit on couch=>Turn to phone=>Look at phone=>Touch phone
+Walk to dining room=>Walk to coffee maker=>Find coffee maker=>Find coffee filter=>Grab coffee filter=>Open coffee maker=>Put coffee filter on coffee maker=>Walk to coffee=>Find coffee=>Grab coffee=>Pour coffee into coffee maker=>Switch on coffee maker
+Find keyboard=>Grab keyboard=>Find computer=>Switch on computer
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Turn to remote control=>Find television=>Turn to television=>Watch television
+Walk to home office=>Walk to coffee table=>Find coffee table=>Turn to coffee table=>Look at coffee table=>Find remote control=>Grab remote control=>Find television=>Turn to television=>Point at television=>Put back remote control
+Walk to dining room=>Walk to sink=>Find faucet=>Switch on faucet=>Find plate=>Grab plate=>Wash plate=>Rinse plate
+Walk to bedroom=>Walk to shoes=>Find shoes=>Find shoes=>Find clothes dress=>Take off shoes=>Find clothes dress=>Take off clothes dress=>Grab clothes dress=>Find basket for clothes=>Put clothes dress on basket for clothes=>Find dresser=>Open dresser=>Find pajamas=>Grab pajamas=>Close dresser=>Put on pajamas=>Walk to desk=>Find novel=>Grab novel=>Walk to bed=>Lie on bed=>Read novel
+Find computer=>Find chair=>Sit on chair
+Walk to dining room=>Walk to clothes dress=>Find clothes dress=>Grab clothes dress=>Find washing machine=>Turn to washing machine=>Look at washing machine=>Open washing machine=>Put clothes dress on washing machine=>Close washing machine=>Switch on washing machine=>Switch off washing machine
+Walk to bathroom=>Walk to cleaning solution=>Find cleaning solution=>Grab cleaning solution=>Walk to sink=>Pour cleaning solution into sink=>Put back cleaning solution=>Find rag=>Grab rag=>Walk to sink=>Wipe sink=>Wipe sink=>Wipe sink=>Put back rag
+Walk to home office=>Walk to remote control=>Grab remote control=>Find television=>Turn to television=>Point at television=>Switch on television=>Watch television
+Find toy=>Turn to toy=>Point at toy=>Wash toy=>Turn to toy=>Look at toy
+Walk to home office=>Walk to television=>Find television=>Switch on television=>Find remote control=>Grab remote control=>Find chair=>Sit on chair=>Touch remote control=>Turn to television=>Watch television
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find light=>Switch off light=>Find love seat=>Sit on love seat=>Find television=>Switch on television=>Turn to television=>Watch television
+Walk to home office=>Walk to cat=>Find cat=>Touch cat
+Walk to home office=>Walk to remote control=>Grab remote control=>Turn to remote control=>Point at remote control
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch
+Walk to dining room=>Walk to water glass=>Find water glass=>Grab water glass=>Find faucet=>Switch on faucet=>Find water=>Find sink=>Put water glass on sink=>Grab water glass=>Switch off faucet=>Drink water glass
+Walk to dining room=>Walk to freezer=>Find freezer=>Open freezer=>Find food food=>Grab food food=>Put food food in freezer=>Close freezer
+Find food food=>Find food chicken=>Grab food chicken=>Find freezer=>Open freezer=>Drop food chicken=>Close freezer
+Find water glass=>Grab water glass=>Walk to water=>Find water=>Grab water=>Pour water into water glass=>Grab water glass=>Drink water glass
+Find clothes dress=>Grab clothes dress=>Walk to bathroom=>Walk to washing machine=>Find washing machine=>Open washing machine=>Drop clothes dress=>Find laundry detergent=>Grab laundry detergent=>Pour laundry detergent into washing machine=>Close washing machine=>Switch on washing machine
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Walk to dishwasher=>Open dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Find plate=>Grab plate=>Put plate on dishwasher=>Find spoon=>Grab spoon=>Put spoon on dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to home office=>Walk to filing cabinet=>Find remote control=>Grab remote control=>Find light=>Switch on light
+Find drinking glass=>Grab drinking glass=>Walk to water=>Find water=>Grab water=>Pour water into drinking glass=>Drink drinking glass
+Run to home office=>Walk to man=>Find man=>Greet man=>Find man=>Greet man
+Find cat=>Turn to cat=>Look at cat=>Walk to cat=>Touch cat
+Walk to home office=>Walk to computer=>Switch on computer=>Switch off computer
+Walk to dining room=>Walk to cupboard=>Find cupboard=>Open cupboard=>Find bowl=>Grab bowl=>Find food oatmeal=>Grab food oatmeal=>Put food oatmeal on bowl=>Grab food oatmeal=>Put back food oatmeal=>Close cupboard=>Walk to freezer=>Open freezer=>Find milk=>Grab milk=>Pour milk into bowl=>Put back milk=>Close freezer=>Find microwave=>Open microwave=>Put bowl in microwave=>Close microwave=>Switch on microwave=>Find ground coffee=>Grab ground coffee=>Find coffee maker=>Open coffee maker=>Put ground coffee on coffee maker=>Close coffee maker=>Switch on coffee maker=>Find cup=>Grab cup=>Walk to freezer=>Open freezer=>Find juice=>Grab juice=>Pour juice into cup=>Put back juice=>Close freezer=>Find table=>Put cup on table
+Walk to home office=>Walk to paper towel=>Find paper towel=>Grab paper towel=>Walk to floor lamp=>Switch off floor lamp=>Wipe floor lamp=>Find trashcan=>Put paper towel on trashcan
+Walk to home office=>Walk to cat=>Find cat=>Touch cat
+Stand up=>Walk to home office=>Walk to light=>Find light=>Switch on light=>Find television=>Walk to television=>Plug in television=>Switch on television=>Walk to light=>Switch off light=>Find couch=>Walk to couch=>Sit on couch=>Turn to television=>Look at television
+Walk to bedroom=>Walk to child=>Find child=>Greet child=>Walk to dresser=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Find cd player=>Switch on cd player=>Find bed=>Sit on bed=>Turn to television=>Watch television
+Walk to dining room=>Walk to table=>Find plate=>Grab plate=>Walk to dishwasher=>Open dishwasher=>Put plate on dishwasher=>Walk to table=>Find pot=>Grab pot=>Walk to dishwasher=>Put pot on dishwasher=>Close dishwasher=>Find dish soap=>Grab dish soap=>Open dishwasher=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to home office=>Walk to cat=>Find cat=>Turn to cat=>Look at cat=>Touch cat
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find water glass=>Grab water glass=>Drink water glass
+Walk to bedroom=>Walk to dresser=>Open dresser=>Find clothes pants=>Grab clothes pants=>Put on clothes pants=>Find clothes shirt=>Grab clothes shirt=>Put on clothes shirt=>Find clothes socks=>Grab clothes socks=>Put on clothes socks=>Close dresser=>Find shoes=>Grab shoes=>Put on shoes
+Walk to dining room=>Walk to sink=>Find plate=>Rinse plate=>Find sponge=>Grab sponge=>Wash plate
+Walk to home office=>Walk to drawing=>Find drawing=>Turn to drawing=>Look at drawing=>Touch drawing=>Push drawing=>Find drawing=>Turn to drawing=>Look at drawing=>Touch drawing=>Push drawing
+Walk to light=>Switch on light
+Walk to home office=>Walk to computer=>Switch on computer=>Find address book
+Walk to home office=>Walk to table=>Find centerpiece=>Turn to centerpiece=>Look at centerpiece=>Grab centerpiece=>Pull centerpiece
+Walk to bathroom=>Walk to sink=>Find sink=>Find faucet=>Switch on faucet=>Find soap=>Push soap=>Find hands both=>Scrub hands both=>Rinse hands both=>Switch off faucet
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Open dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Grab dish soap=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to home office=>Walk to television=>Find television=>Find remote control=>Find couch=>Sit on couch=>Switch on television=>Turn to television=>Look at television
+Walk to dining room=>Walk to light=>Find light=>Switch on light=>Walk to kitchen cabinet=>Find pot=>Grab pot=>Walk to oven=>Put pot on oven=>Walk to freezer=>Open freezer=>Find food chicken=>Grab food chicken=>Walk to oven=>Put food chicken on oven
+Find soap=>Grab soap=>Find sink=>Turn to sink=>Find hands both=>Wash hands both=>Rinse hands both
+Walk to dining room=>Walk to washing machine=>Find washing machine=>Open washing machine=>Walk to laundry detergent=>Find laundry detergent=>Grab laundry detergent=>Pour laundry detergent into washing machine=>Find basket for clothes=>Grab basket for clothes=>Put basket for clothes on washing machine
+Walk to bathroom=>Walk to sink=>Find water=>Turn to water=>Find soap=>Grab soap=>Find hands both=>Scrub hands both=>Rinse hands both=>Turn to water=>Find paper towel=>Grab paper towel
+Walk to home office=>Walk to desk=>Find chair=>Pull chair=>Sit on chair=>Find computer=>Switch on computer=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to light=>Find light=>Switch off light=>Find couch=>Sit on couch=>Lie on couch
+Walk to dining room=>Walk to plate=>Find plate=>Grab plate=>Find food food=>Grab food food=>Put food food on plate=>Walk to dining room=>Walk to table=>Find table=>Put plate on table=>Find chair=>Sit on chair=>Eat plate
+Walk to dining room=>Walk to table=>Find chair=>Pull chair=>Sit on chair=>Find food food=>Turn to food food=>Look at food food=>Grab food food=>Find plate=>Put food food on plate=>Grab food food=>Put back food food=>Find fork=>Grab fork=>Eat plate
+Walk to dining room=>Walk to kitchen cabinet=>Find kitchen cabinet=>Open kitchen cabinet=>Find plate=>Grab plate=>Find dishwasher=>Open dishwasher=>Put plate on dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher=>Grab plate=>Wipe plate=>Find dishrack=>Grab dishrack=>Put back dishrack
+Walk to bathroom=>Walk to basket for clothes=>Find basket for clothes=>Find clothes dress=>Grab clothes dress=>Find washing machine=>Walk to washing machine=>Open washing machine=>Put clothes dress on washing machine=>Find soap=>Grab soap=>Put soap on washing machine=>Close washing machine=>Switch on washing machine
+Run to home office=>Walk to novel=>Find novel=>Grab novel=>Walk to couch=>Sit on couch=>Turn to novel=>Look at novel=>Find bookmark=>Grab bookmark=>Drop bookmark=>Turn to novel=>Look at novel=>Read novel=>Read novel=>Read novel
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch
+Walk to home office=>Walk to keys=>Find keys=>Grab keys=>Find bag=>Open bag=>Put keys on bag=>Close bag
+Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Find chair=>Sit on chair=>Find bookmark=>Read novel
+Walk to home office=>Walk to home office=>Walk to computer=>Find computer=>Switch on computer=>Find button=>Turn to button=>Look at button=>Find mouse=>Grab mouse=>Grab button=>Find chair=>Sit on chair=>Switch off computer
+Walk to dining room=>Walk to food food=>Find food food=>Grab food food=>Find freezer=>Open freezer=>Put food food in freezer=>Close freezer
+Walk to home office=>Walk to filing cabinet=>Find remote control=>Grab remote control=>Find light=>Switch on light
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Find coffee table=>Put remote control on coffee table=>Turn to television=>Look at television
+Walk to home office=>Walk to laptop=>Find laptop=>Switch on laptop=>Find keyboard=>Grab keyboard=>Find mouse=>Touch mouse=>Run to laptop
+Walk to dining room=>Walk to freezer=>Open freezer=>Find food food=>Close freezer=>Walk to microwave=>Switch on microwave=>Switch off microwave
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Turn to television=>Watch television
+Walk to dining room=>Walk to cat=>Find cat=>Walk to cat=>Touch cat
+Walk to home office=>Walk to rag=>Find rag=>Grab rag=>Find coffee table=>Wipe coffee table=>Find couch=>Wipe couch=>Find television=>Wipe television=>Find instrument piano=>Wipe instrument piano=>Put back rag
+Walk to dining room=>Walk to chair=>Find chair=>Pull chair=>Sit on chair
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Put back remote control=>Turn to television=>Watch television
+Run to dining room=>Walk to coffee maker=>Find coffee filter=>Grab coffee filter=>Open coffee maker=>Put coffee filter on coffee maker=>Find coffee=>Grab coffee=>Pour coffee into coffee maker=>Put back coffee=>Walk to water=>Find water=>Grab water=>Pour water into coffee maker=>Switch on coffee maker
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find couch=>Sit on couch=>Find television=>Switch on television=>Turn to television=>Watch television
+Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Find chair=>Sit on chair=>Read novel
+Find light=>Switch on light
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Turn to television=>Watch television
+Walk to home office=>Walk to computer=>Find computer=>Switch on computer=>Find mail=>Open mail=>Find keyboard=>Type on keyboard
+Find food food=>Grab food food=>Walk to dining room=>Walk to freezer=>Find freezer=>Turn to freezer=>Look at freezer=>Open freezer=>Put food food in freezer=>Close freezer
+Walk to home office=>Walk to couch=>Lie on couch
+Find brush=>Grab brush=>Walk to bathroom=>Walk to toilet=>Find toilet=>Scrub toilet
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Find dishrack=>Find dishrack=>Grab dishrack=>Find dishwasher=>Open dishwasher=>Put dishrack on dishwasher=>Switch on dishwasher
+Walk to bathroom=>Walk to sink=>Find sink=>Find faucet=>Switch on faucet=>Find soap=>Push soap=>Find hands both=>Scrub hands both=>Rinse hands both=>Switch off faucet
+Stand up=>Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Turn to novel=>Look at novel=>Read novel
+Find cat=>Turn to cat=>Look at cat=>Walk to cat=>Touch cat
+Walk to dining room=>Walk to plate=>Find plate=>Grab plate=>Walk to home office=>Drop plate=>Walk to dining room=>Walk to cup=>Find cup=>Grab cup=>Walk to home office=>Drop cup=>Walk to dining room=>Walk to fork=>Find fork=>Grab fork=>Walk to home office=>Drop fork
+Walk to home office=>Walk to table=>Find centerpiece=>Turn to centerpiece=>Look at centerpiece=>Grab centerpiece=>Pull centerpiece
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find laptop=>Switch on laptop=>Turn to laptop=>Look at laptop=>Find mail=>Grab mail=>Read mail=>Find keyboard=>Type on keyboard=>Switch off laptop
+Walk to home office=>Walk to couch=>Find couch=>Walk to couch=>Sit on couch=>Find man=>Greet man
+Walk to dining room=>Walk to cleaning solution=>Find cleaning solution=>Grab cleaning solution=>Put back cleaning solution=>Find rag=>Grab rag=>Put back rag
+Walk to bedroom=>Walk to shoes=>Find shoes=>Grab shoes=>Pull shoes=>Walk to dresser=>Open dresser=>Put shoes in dresser=>Find shoes=>Grab shoes=>Pull shoes=>Walk to dresser=>Put shoes in dresser=>Close dresser
+Walk to dining room=>Walk to sink=>Find faucet=>Switch on faucet=>Switch off faucet=>Find dish soap=>Grab dish soap=>Pour dish soap into sink=>Put back dish soap=>Find sponge=>Grab sponge=>Find cup=>Grab cup=>Scrub cup=>Put back cup=>Find cup=>Grab cup=>Scrub cup=>Put back cup=>Put sponge on sink=>Switch on faucet=>Rinse cup=>Grab cup=>Find dishrack=>Put cup on dishrack=>Rinse cup=>Grab cup=>Put cup on dishrack=>Rinse sponge=>Switch off faucet=>Grab sponge=>Put back sponge
+Walk to bathroom=>Walk to toilet=>Find toilet=>Turn to toilet=>Look at toilet=>Walk to toilet=>Turn to toilet
+Walk to bathroom=>Walk to shower=>Find shower=>Turn to shower=>Find water=>Rinse water=>Find soap=>Wash soap=>Rinse water=>Find towel=>Grab towel=>Scrub towel
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to phone=>Find phone=>Grab phone=>Find button=>Touch button
+Walk to dining room=>Walk to cupboard=>Find cupboard=>Open cupboard=>Find cutting board=>Grab cutting board=>Find chef knife=>Grab chef knife=>Close cupboard=>Find table=>Put cutting board on table=>Put chef knife on table=>Find freezer=>Open freezer=>Find food vegetable=>Grab food vegetable=>Find food vegetable=>Grab food vegetable=>Close freezer=>Put food vegetable on cutting board=>Put food vegetable on cutting board=>Grab chef knife=>Cut food vegetable=>Cut food vegetable=>Put back chef knife
+Walk to dining room=>Walk to dishwasher=>Find dishwasher=>Open dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Grab dish soap=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Find drinking glass=>Grab drinking glass=>Walk to water=>Find water=>Grab water=>Pour water into drinking glass=>Drink drinking glass
+Walk to bathroom=>Walk to cleaning solution=>Find cleaning solution=>Grab cleaning solution=>Find dirt=>Find dirt=>Find dirt=>Put back cleaning solution=>Find rag=>Grab rag=>Walk to dirt=>Wipe dirt=>Walk to dirt=>Wipe dirt=>Walk to dirt=>Wipe dirt=>Put back rag
+Walk to home office=>Walk to phone=>Find phone=>Grab phone
+Walk to bathroom=>Walk to basket for clothes=>Find basket for clothes=>Grab basket for clothes=>Walk to washing machine=>Open washing machine=>Put basket for clothes on washing machine=>Find soap=>Grab soap=>Walk to washing machine=>Put soap on washing machine=>Close washing machine=>Switch on washing machine
+Walk to home office=>Walk to child=>Find child=>Greet child
+Find computer=>Switch on computer=>Find keyboard=>Plug in keyboard=>Type on keyboard=>Plug out keyboard=>Switch off computer
+Walk to bedroom=>Walk to dresser=>Find dresser=>Walk to dresser=>Open dresser=>Find clothes pants=>Grab clothes pants=>Put on clothes pants=>Find clothes shirt=>Grab clothes shirt=>Put on clothes shirt=>Close dresser
+Walk to dining room=>Walk to sink=>Find plate=>Grab plate=>Find dishwasher=>Open dishwasher=>Put plate on dishwasher=>Find dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to home office=>Walk to window=>Open window
+Walk to home office=>Walk to phone=>Find phone=>Grab phone
+Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Read novel
+Walk to dining room=>Walk to drinking glass=>Find drinking glass=>Grab drinking glass=>Find faucet=>Turn to faucet=>Find water=>Drink drinking glass
+Walk to bedroom=>Walk to desk=>Find desk=>Find light=>Plug in light
+Walk to home office=>Walk to desk=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard
+Walk to dining room=>Walk to plate=>Find plate=>Grab plate=>Find sink=>Put plate on sink=>Wash plate
+Walk to home office=>Walk to phone=>Find phone=>Grab phone
+Walk to bathroom=>Walk to paper towel=>Find paper towel=>Turn to paper towel=>Look at paper towel=>Grab paper towel=>Find hands both=>Wipe hands both
+Walk to dining room=>Walk to coffee maker=>Find coffee maker=>Open coffee maker=>Find coffee filter=>Grab coffee filter=>Put coffee filter on coffee maker=>Find ground coffee=>Grab ground coffee=>Find ground coffee=>Put ground coffee on coffee maker=>Walk to water=>Find water=>Grab water=>Pour water into coffee maker=>Close coffee maker=>Switch on coffee maker
+Walk to bathroom=>Walk to rag=>Find rag=>Grab rag=>Walk to sink=>Find faucet=>Wipe faucet=>Wipe sink=>Put back rag
+Walk to home office=>Walk to table=>Find phone=>Grab phone=>Drop phone
+Walk to home office=>Walk to desk=>Find computer=>Switch on computer=>Find chair=>Pull chair=>Sit on chair=>Turn to computer=>Look at computer=>Find mouse=>Grab mouse=>Pull mouse=>Touch mouse=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard=>Turn to computer=>Look at computer=>Type on keyboard=>Turn to computer=>Look at computer=>Type on keyboard=>Touch mouse=>Find fax machine=>Switch on fax machine=>Switch off fax machine=>Switch off computer
+Find plate=>Grab plate=>Find table=>Put plate on table=>Walk to bathroom=>Walk to sink=>Find soap=>Grab soap=>Find hands both=>Scrub hands both=>Rinse hands both
+Walk to bedroom=>Walk to light=>Find light=>Switch on light
+Find cat=>Touch cat
+Walk to bathroom=>Walk to shower=>Find shower
+Find phone=>Grab phone
+Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Turn to television=>Point at television=>Switch on television
+Walk to home office=>Walk to table=>Find table=>Find novel=>Grab novel=>Find chair=>Sit on chair=>Read novel=>Put back novel
+Walk to dining room=>Walk to coffee maker=>Find coffee maker=>Open coffee maker=>Find coffee filter=>Grab coffee filter=>Put coffee filter on coffee maker=>Find cupboard=>Open cupboard=>Find ground coffee=>Grab ground coffee=>Put ground coffee on coffee maker=>Walk to water=>Find water=>Grab water=>Pour water into coffee maker=>Close coffee maker=>Switch on coffee maker
+Walk to dining room=>Walk to water glass=>Find water glass=>Grab water glass=>Walk to water=>Find water=>Grab water=>Pour water into water glass=>Drink water glass
+Walk to dining room=>Walk to rag=>Find rag=>Grab rag=>Walk to sink=>Find faucet=>Switch on faucet=>Rinse rag=>Squeeze rag=>Switch off faucet=>Walk to kitchen counter=>Wipe kitchen counter
+Walk to home office=>Walk to television=>Find television=>Switch on television=>Find couch=>Sit on couch=>Turn to television=>Watch television
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Find button=>Push button=>Turn to television=>Watch television
+Walk to home office=>Walk to clothes jacket=>Find clothes jacket=>Find clothes jacket=>Take off clothes jacket=>Walk to dresser=>Open dresser=>Grab clothes jacket=>Put clothes jacket in dresser=>Close dresser
+Walk to home office=>Walk to couch=>Sit on couch
+Walk to home office=>Walk to coffee table=>Push coffee table=>Walk to couch=>Push couch=>Walk to couch=>Push couch=>Walk to filing cabinet=>Push filing cabinet
+Walk to dining room=>Walk to cupboard=>Find cupboard=>Open cupboard=>Find water glass=>Grab water glass=>Walk to water=>Find water=>Grab water=>Pour water into water glass=>Drink water glass=>Rinse water glass=>Put water glass on cupboard
+Run to home office=>Walk to man=>Find man=>Greet man=>Find man=>Greet man
+Walk to home office=>Walk to phone=>Find phone=>Grab phone
+Walk to dining room=>Walk to table=>Find table=>Find water glass=>Grab water glass=>Find water=>Grab water=>Walk to water=>Pour water into water glass=>Drink water glass
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find couch=>Sit on couch=>Find television=>Switch on television=>Turn to television=>Watch television
+Find soap=>Turn to soap=>Point at soap=>Wash soap=>Turn to soap=>Look at soap
+Walk to home office=>Walk to television=>Find television=>Switch on television=>Walk to chair=>Sit on chair=>Turn to television=>Watch television=>Switch off television
+Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Read novel
+Find clothes pants=>Grab clothes pants=>Walk to dining room=>Walk to washing machine=>Find washing machine=>Open washing machine=>Put clothes pants on washing machine=>Close washing machine=>Switch on washing machine
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find television=>Switch on television
+Walk to home office=>Walk to computer=>Find computer=>Switch on computer=>Find chair=>Sit on chair=>Find keyboard=>Find mouse=>Turn to computer=>Look at computer=>Type on keyboard
+Walk to home office=>Walk to couch=>Sit on couch=>Sleep
+Find chair=>Sit on chair=>Find computer=>Turn to computer=>Find keyboard=>Type on keyboard=>Find check=>Turn to check=>Look at check
+Walk to home office=>Walk to television=>Switch on television=>Walk to couch=>Find child=>Greet child=>Find child=>Greet child=>Sit on couch=>Turn to television=>Watch television=>Turn to television=>Watch television=>Turn to television=>Watch television
+Walk to dining room=>Walk to food food=>Find food food=>Grab food food=>Walk to dining room=>Walk to table=>Put food food on table=>Walk to dining room=>Walk to food food=>Find food food=>Grab food food=>Walk to dining room=>Walk to table=>Put food food on table=>Walk to chair=>Pull chair=>Sit on chair=>Turn to food food=>Look at food food=>Turn to food food=>Look at food food
+Walk to dining room=>Walk to kitchen cabinet=>Find kitchen cabinet=>Find kitchen cabinet=>Find water=>Grab water=>Find water glass=>Pour water into water glass=>Grab water glass=>Drink water glass
+Walk to home office=>Walk to desk=>Find chair=>Sit on chair=>Find computer=>Switch on computer
+Walk to bedroom=>Walk to floor lamp=>Find floor lamp=>Walk to floor lamp=>Switch on floor lamp=>Find light=>Switch on light
+Walk to home office=>Walk to television=>Find television=>Find remote control=>Turn to television=>Point at television=>Find button=>Push button=>Turn to television=>Watch television
+Walk to bedroom=>Walk to light=>Find light=>Switch off light=>Find bed=>Lie on bed=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Put back remote control=>Turn to television=>Watch television
+Walk to home office=>Walk to television=>Find television=>Switch on television
+Walk to bedroom=>Walk to clothes pants=>Find clothes pants=>Grab clothes pants=>Walk to home office=>Walk to washing machine=>Find washing machine=>Open washing machine=>Put clothes pants on washing machine=>Find laundry detergent=>Grab laundry detergent=>Put laundry detergent on washing machine=>Close washing machine
+Find basket for clothes=>Grab basket for clothes=>Find washing machine=>Open washing machine=>Put basket for clothes on washing machine=>Find detergent=>Grab detergent=>Put detergent on washing machine=>Wash basket for clothes
+Walk to home office=>Walk to button=>Find button=>Push button=>Find couch=>Sit on couch=>Find television=>Turn to television=>Watch television
+Find computer=>Switch on computer=>Find keyboard=>Touch keyboard
+Walk to dining room=>Walk to light=>Find light=>Switch on light
+Find cat=>Walk to cat=>Turn to cat=>Look at cat=>Touch cat=>Scrub cat
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer
+Find coffee maker=>Plug in coffee maker=>Open coffee maker=>Walk to water=>Find water=>Grab water=>Pour water into coffee maker=>Find coffee filter=>Grab coffee filter=>Put coffee filter on coffee maker=>Find ground coffee=>Grab ground coffee=>Put ground coffee on coffee maker=>Close coffee maker=>Switch on coffee maker
+Find drinking glass=>Grab drinking glass=>Walk to water=>Find water=>Grab water=>Pour water into drinking glass=>Drink drinking glass
+Walk to dining room=>Walk to table=>Find plate=>Grab plate=>Walk to dishwasher=>Open dishwasher=>Put plate on dishwasher=>Find dish soap=>Grab dish soap=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to home office=>Walk to chair=>Pull chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer
+Stand up=>Find chair=>Walk to chair=>Pull chair=>Walk to coffee table=>Push chair
+Run to home office=>Walk to computer=>Find computer=>Switch on computer=>Find chair=>Sit on chair=>Find mouse=>Grab mouse=>Turn to computer=>Look at computer=>Find keyboard=>Grab keyboard=>Type on keyboard=>Turn to computer=>Look at computer=>Touch mouse=>Type on keyboard=>Turn to computer=>Look at computer
+Walk to dining room=>Walk to sink=>Find faucet=>Switch on faucet=>Find bowl=>Grab bowl=>Rinse bowl=>Switch off faucet=>Walk to dishwasher=>Open dishwasher=>Put bowl on dishwasher=>Walk to sink=>Find faucet=>Switch on faucet=>Find bowl=>Grab bowl=>Rinse bowl=>Switch off faucet=>Walk to dishwasher=>Put bowl on dishwasher=>Walk to sink=>Find faucet=>Switch on faucet=>Find plate=>Grab plate=>Rinse plate=>Switch off faucet=>Walk to dishwasher=>Put plate on dishwasher=>Close dishwasher
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Lie on couch
+Walk to dining room=>Walk to sink=>Find kitchen cabinet=>Open kitchen cabinet=>Find cup=>Grab cup=>Close kitchen cabinet=>Walk to freezer=>Walk to water=>Find water=>Grab water=>Pour water into cup=>Open freezer
+Walk to home office=>Walk to table=>Find table=>Walk to table=>Find phone=>Grab phone
+Walk to home office=>Walk to computer=>Switch on computer
+Walk to dining room=>Walk to table=>Find chair=>Pull chair=>Find cloth napkin=>Grab cloth napkin=>Put cloth napkin on table=>Find plate=>Grab plate=>Put plate on table=>Find knife=>Grab knife=>Put knife on table=>Find fork=>Grab fork=>Put fork on table=>Find cup=>Grab cup=>Put cup on table
+Walk to dining room=>Walk to dry pasta=>Find dry pasta=>Grab dry pasta=>Find sauce pan=>Put dry pasta on sauce pan=>Find sauce pan=>Grab sauce pan=>Find oven=>Put sauce pan on oven
+Walk to home office=>Walk to video game console=>Find video game console=>Switch on video game console=>Find video game controller=>Grab video game controller=>Put back video game controller=>Switch off video game console=>Find video game console=>Switch on video game console=>Find video game controller=>Grab video game controller
+Walk to dining room=>Walk to kitchen cabinet=>Find kitchen cabinet=>Open kitchen cabinet=>Find knife=>Grab knife=>Find plate=>Grab plate=>Close kitchen cabinet=>Find table=>Put plate on table=>Put knife on table=>Find freezer=>Open freezer=>Find food bread=>Grab food bread=>Close freezer=>Put food bread on plate=>Grab knife=>Cut food bread=>Put back knife
+Walk to home office=>Walk to light=>Find light=>Switch on light=>Find light=>Turn to light=>Look at light=>Switch on light=>Find light=>Turn to light=>Look at light=>Switch on light
+Walk to home office=>Walk to phone=>Grab phone
+Find television=>Walk to television=>Switch on television=>Find button=>Push button
+Walk to home office=>Walk to desk=>Find computer=>Switch on computer=>Find chair=>Pull chair=>Sit on chair=>Find keyboard=>Type on keyboard=>Find mouse=>Grab mouse
+Walk to home office=>Walk to couch=>Find couch=>Walk to couch=>Sit on couch=>Find man=>Greet man
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find television=>Turn to television=>Point at television=>Push remote control
+Walk to home office=>Walk to bedroom=>Walk to basket for clothes=>Find basket for clothes=>Grab basket for clothes=>Walk to dining room=>Walk to washing machine=>Find washing machine=>Open washing machine=>Put basket for clothes on washing machine=>Find laundry detergent=>Grab laundry detergent=>Put laundry detergent on washing machine=>Close washing machine=>Turn to washing machine
+Walk to dining room=>Walk to kitchen counter=>Find food food=>Grab food food=>Walk to freezer=>Open freezer=>Put food food in freezer=>Close freezer
+Walk to bedroom=>Walk to phone=>Find phone=>Grab phone=>Turn to phone=>Look at phone=>Find button=>Push button
+Walk to dining room=>Walk to sink=>Find plate=>Grab plate=>Find soap=>Grab soap=>Put soap on plate=>Find water=>Rinse water=>Find cupboard=>Open cupboard=>Put plate on cupboard
+Walk to bathroom=>Walk to basket for clothes=>Find basket for clothes=>Grab basket for clothes=>Find washing machine=>Walk to washing machine=>Open washing machine=>Find laundry detergent=>Grab laundry detergent=>Pour laundry detergent into washing machine=>Put back laundry detergent=>Put basket for clothes on washing machine=>Close washing machine=>Switch on washing machine
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Put back remote control
+Walk to bedroom=>Walk to bed=>Find bed=>Sit on bed=>Find shoes=>Find shoes=>Take off shoes=>Stand up=>Walk to dresser=>Open dresser=>Grab shoes=>Put shoes in dresser=>Close dresser
+Walk to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Find couch=>Sit on couch=>Find television=>Turn to television=>Look at television=>Turn to television=>Point at television=>Switch on television=>Push remote control=>Watch television
+Walk to bedroom=>Walk to bed=>Find bed=>Lie on bed=>Find novel=>Grab novel=>Read novel
+Walk to bathroom=>Walk to toilet=>Sit on toilet
+Walk to dining room=>Walk to sink=>Find faucet=>Switch on faucet=>Switch off faucet=>Find dish soap=>Grab dish soap=>Pour dish soap into sink=>Put back dish soap=>Find sponge=>Grab sponge=>Find cup=>Grab cup=>Scrub cup=>Put back cup=>Find cup=>Grab cup=>Scrub cup=>Put back cup=>Put sponge on sink=>Switch on faucet=>Rinse cup=>Grab cup=>Find dishrack=>Put cup on dishrack=>Rinse cup=>Grab cup=>Put cup on dishrack=>Rinse sponge=>Switch off faucet=>Grab sponge=>Put back sponge
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch=>Find remote control=>Grab remote control=>Find television=>Switch on television=>Turn to television=>Watch television
+Run to home office=>Walk to computer=>Find computer=>Switch on computer=>Find chair=>Sit on chair=>Find mouse=>Grab mouse=>Turn to computer=>Look at computer=>Find keyboard=>Grab keyboard=>Type on keyboard=>Turn to computer=>Look at computer=>Touch mouse=>Type on keyboard=>Turn to computer=>Look at computer
+Walk to home office=>Walk to desk=>Find computer=>Switch on computer=>Find chair=>Pull chair=>Sit on chair=>Turn to computer=>Look at computer=>Find mouse=>Grab mouse=>Pull mouse=>Touch mouse=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard=>Turn to computer=>Look at computer=>Type on keyboard=>Turn to computer=>Look at computer=>Type on keyboard=>Touch mouse=>Find fax machine=>Switch on fax machine=>Switch off fax machine=>Switch off computer
+Walk to home office=>Walk to television=>Find television=>Switch on television=>Find couch=>Walk to couch=>Sit on couch=>Turn to television=>Watch television
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard
+Walk to bathroom=>Walk to dresser=>Find dresser=>Open dresser=>Close dresser=>Find toilet paper=>Wash dresser=>Find toilet paper=>Touch toilet paper
+Walk to home office=>Walk to man=>Find man=>Greet man
+Walk to home office=>Walk to novel=>Find novel=>Grab novel=>Find chair=>Sit on chair=>Read novel
+Run to home office=>Walk to man=>Find man=>Greet man=>Find man=>Greet man
+Walk to home office=>Walk to desk=>Find phone=>Grab phone
+Walk to dining room=>Walk to sink=>Find sink=>Turn to sink=>Look at sink=>Find dish soap=>Grab dish soap=>Find dishwasher=>Open dishwasher=>Put dish soap on dishwasher=>Close dishwasher=>Switch on dishwasher
+Walk to bathroom=>Walk to basket for clothes=>Find basket for clothes=>Grab basket for clothes=>Walk to washing machine=>Open washing machine=>Put basket for clothes on washing machine=>Find soap=>Grab soap=>Walk to washing machine=>Put soap on washing machine=>Close washing machine=>Switch on washing machine
+Walk to dining room=>Walk to pot=>Find pot=>Grab pot=>Walk to oven=>Put pot on oven=>Walk to freezer=>Open freezer=>Find food egg=>Grab food egg=>Find food egg=>Grab food egg=>Close freezer=>Walk to oven=>Switch on oven=>Put food egg on pot=>Put food egg on pot=>Grab pot=>Pull pot=>Push pot=>Switch off oven
+Walk to bedroom=>Walk to window=>Turn to window=>Look at window
+Walk to home office=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard=>Switch off computer=>Stand up
+Walk to home office=>Walk to couch=>Find couch=>Sit on couch
+Run to home office=>Walk to remote control=>Find remote control=>Grab remote control=>Walk to couch=>Sit on couch=>Find television=>Turn to television=>Point at television=>Touch remote control=>Switch on television=>Turn to television=>Look at television=>Watch television=>Drop remote control=>Turn to television=>Look at television=>Watch television
+Walk to bathroom=>Walk to cleaning solution=>Find cleaning solution=>Grab cleaning solution=>Find sink=>Pour cleaning solution into sink=>Find faucet=>Switch on faucet=>Scrub sink=>Wash sink
+Walk to dining room=>Walk to table=>Find food chicken=>Grab food chicken=>Find freezer=>Open freezer=>Put food chicken on freezer=>Close freezer=>Find food carrot=>Grab food carrot=>Find freezer=>Open freezer=>Put food carrot in freezer=>Close freezer
+Find keyboard=>Grab keyboard=>Find computer=>Switch on computer
+Walk to bathroom=>Walk to sink=>Find sink=>Turn to sink=>Find faucet=>Switch on faucet=>Find hands both=>Rinse hands both=>Find soap=>Grab soap=>Squeeze soap=>Wash hands both=>Rinse hands both=>Switch off faucet=>Find towel=>Grab towel=>Wipe hands both
+Walk to bedroom=>Walk to towel=>Find towel=>Grab towel=>Find face=>Wipe face=>Find hair=>Wipe hair=>Put back towel
+Walk to home office=>Walk to coffee table=>Find coffee table=>Walk to coffee table=>Turn to coffee table=>Look at coffee table=>Find remote control=>Touch remote control=>Grab remote control=>Find television=>Turn to television=>Point at television=>Find button=>Touch button=>Push button
+Walk to home office=>Walk to dresser=>Open dresser=>Find vacuum cleaner=>Grab vacuum cleaner=>Pull vacuum cleaner=>Plug in vacuum cleaner=>Switch on vacuum cleaner=>Pull vacuum cleaner=>Push vacuum cleaner=>Pull vacuum cleaner=>Push vacuum cleaner=>Pull vacuum cleaner=>Push vacuum cleaner=>Switch off vacuum cleaner=>Plug out vacuum cleaner=>Walk to dresser=>Put vacuum cleaner in dresser=>Close dresser
+Walk to dining room=>Walk to sink=>Find faucet=>Switch on faucet=>Find dish soap=>Grab dish soap=>Find bowl=>Grab bowl=>Pour dish soap into sink=>Put back dish soap=>Find sponge=>Grab sponge=>Find bowl=>Scrub bowl=>Rinse bowl=>Find dishrack=>Put bowl on dishrack=>Find plate=>Grab plate=>Scrub plate=>Rinse plate=>Put plate on dishrack=>Switch off faucet=>Put back sponge
+Walk to bedroom=>Walk to light=>Switch off light
+Walk to bedroom=>Walk to child=>Find child=>Greet child=>Find novel=>Grab novel=>Find bed=>Sit on bed=>Turn to child=>Look at child=>Turn to novel=>Point at novel=>Read novel
+Walk to home office=>Walk to computer=>Find computer=>Switch on computer=>Find keyboard=>Touch keyboard=>Type on keyboard
+Walk to bathroom=>Walk to chair=>Find chair=>Sit on chair=>Find computer=>Switch on computer=>Turn to computer=>Look at computer=>Find keyboard=>Type on keyboard
+Walk to bedroom=>Walk to laptop=>Find laptop=>Grab laptop=>Walk to bed=>Sit on bed=>Switch on laptop=>Turn to laptop=>Look at laptop=>Find keyboard=>Type on keyboard
+Walk to home office=>Walk to table=>Find table=>Find novel=>Grab novel=>Find chair=>Sit on chair=>Read novel=>Put back novel
+Find television=>Turn to television=>Look at television=>Plug in television=>Find chair=>Sit on chair=>Turn to television=>Watch television
+Walk to home office=>Walk to light=>Find light=>Switch on light=>Walk to home office=>Walk to light=>Find light=>Switch on light=>Find floor lamp=>Switch on floor lamp=>Walk to dining room=>Walk to light=>Find light=>Switch on light
+Walk to home office=>Walk to television=>Plug in television=>Switch on television=>Find video game console=>Plug in video game console=>Switch on video game console=>Find video game console=>Find video game controller=>Grab video game controller=>Walk to couch=>Sit on couch
+Walk to home office=>Walk to laptop=>Find laptop=>Grab laptop=>Find couch=>Sit on couch=>Switch on laptop=>Find keyboard=>Type on keyboard
+Find cup=>Turn to cup=>Point at cup=>Grab cup=>Drink cup=>Turn to cup=>Look at cup
