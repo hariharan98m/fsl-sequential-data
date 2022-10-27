@@ -24,5 +24,6 @@ result = response.choices[0].text
 4. Ensure padding and attention masks (for causal inference Left to Right)
 5. Freeze inner layers. Run backprop, minimize error with SGD.
 
-## Dataset
-https://github.com/epic-kitchens/epic-kitchens-100-annotations#epic_100_test_timestampscsv
+## Datasets
+https://github.com/epic-kitchens/epic-kitchens-100-annotations
+https://github.com/xavierpuigf/virtualhome/tree/v1.0.0
