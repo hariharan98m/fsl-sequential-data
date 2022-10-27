@@ -1,1 +1,5 @@
 .env
+gpt2_tok/
+gpt_neo/
+__pycache__/
+.ipynb_checkpoints/
