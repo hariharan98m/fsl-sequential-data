@@ -1,7 +1,7 @@
 # Few-shot Learning for Sequential Data
 Learn data-efficient few shot strategies to harness knowledge from large pretrained models for sequential prediction tasks.
 
-# TODO: add chatgpt as baseline
+**TODO:** add chatgpt as baseline
 
 ## 1. Code setup
 ### 1.1. Getting GPT-3
