@@ -1,6 +1,8 @@
 # Few-shot Learning for Sequential Data
 Learn data-efficient few shot strategies to harness knowledge from large pretrained models for sequential prediction tasks.
 
+# TODO: add chatgpt as baseline
+
 ## 1. Code setup
 ### 1.1. Getting GPT-3
 1. Get access to OpenAI APIs. Head to https://beta.openai.com/ and create your account with free credits.
